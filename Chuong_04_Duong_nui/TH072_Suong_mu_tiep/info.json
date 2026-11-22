@@ -1,0 +1,122 @@
+{
+  "stt": 72,
+  "clip_id": 73,
+  "title": "Sương mù tiếp",
+  "chapter": "Chương IV - Giao thông trên đường núi",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/72/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/73/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Đường núi nhiều sương mù",
+      "wrong_answers": [
+        "Có nhiều xe chạy ngược chiều",
+        "Xe phía trước đi vào đường hẹp",
+        "Gia súc đi sang đường"
+      ],
+      "all_options": [
+        {
+          "text": "Có nhiều xe chạy ngược chiều",
+          "is_correct": false
+        },
+        {
+          "text": "Đường núi nhiều sương mù",
+          "is_correct": true
+        },
+        {
+          "text": "Xe phía trước đi vào đường hẹp",
+          "is_correct": false
+        },
+        {
+          "text": "Gia súc đi sang đường",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Đường sương mù, đường cong liên tiếp",
+      "wrong_answers": [
+        "Xe lớn phía trước",
+        "Xe đối diện có tín hiệu đèn",
+        "Xe chạy không đều"
+      ],
+      "all_options": [
+        {
+          "text": "Xe lớn phía trước",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đối diện có tín hiệu đèn",
+          "is_correct": false
+        },
+        {
+          "text": "Đường sương mù, đường cong liên tiếp",
+          "is_correct": true
+        },
+        {
+          "text": "Xe chạy không đều",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe chạy ngược chiều vượt nguy hiểm",
+      "wrong_answers": [
+        "Xe trước có dấu hiệu trượt hoặc phanh",
+        "Đèn xe đối diện gây chói mắt",
+        "Xe chạy trước dừng đột ngột"
+      ],
+      "all_options": [
+        {
+          "text": "Xe trước có dấu hiệu trượt hoặc phanh",
+          "is_correct": false
+        },
+        {
+          "text": "Đèn xe đối diện gây chói mắt",
+          "is_correct": false
+        },
+        {
+          "text": "Xe chạy trước dừng đột ngột",
+          "is_correct": false
+        },
+        {
+          "text": "Xe chạy ngược chiều vượt nguy hiểm",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc độ, đi sát về bên phải, dừng lại nếu thấy nguy hiểm",
+      "wrong_answers": [
+        "Tăng tốc độ ép xe trước phải nhường",
+        "Bật đèn pha chiếu xa để nhìn xuyên sương",
+        "Giữ nguyên tốc độ, chạy bình thường"
+      ],
+      "all_options": [
+        {
+          "text": "Tăng tốc độ ép xe trước phải nhường",
+          "is_correct": false
+        },
+        {
+          "text": "Bật đèn pha chiếu xa để nhìn xuyên sương",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ, chạy bình thường",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc độ, đi sát về bên phải, dừng lại nếu thấy nguy hiểm",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

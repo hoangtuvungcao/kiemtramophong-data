@@ -1,0 +1,117 @@
+{
+  "stt": 24,
+  "clip_id": 25,
+  "title": "Xe môi trường dừng",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/24/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/25/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe môi trường dừng",
+      "wrong_answers": [
+        "Xe mở cửa ven đường",
+        "Đường thi công tiếp",
+        "Xe phía trước bị che khuất bởi sương"
+      ],
+      "all_options": [
+        {
+          "text": "Xe mở cửa ven đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe môi trường dừng",
+          "is_correct": true
+        },
+        {
+          "text": "Đường thi công tiếp",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước bị che khuất bởi sương",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe chuyên dụng hoạt động trên đường",
+      "wrong_answers": [
+        "Xe chạy không đều",
+        "Đường hai chiều nhỏ và hẹp",
+        "Có người đi xe đạp gần mép đường"
+      ],
+      "all_options": [
+        {
+          "text": "Xe chạy không đều",
+          "is_correct": false
+        },
+        {
+          "text": "Đường hai chiều nhỏ và hẹp",
+          "is_correct": false
+        },
+        {
+          "text": "Xe chuyên dụng hoạt động trên đường",
+          "is_correct": true
+        },
+        {
+          "text": "Có người đi xe đạp gần mép đường",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe phía sau phải chuyển làn",
+      "wrong_answers": [
+        "Đường đông dân cư, nhiều điểm giao cắt",
+        "Bên phải có xe đang dừng đỗ"
+      ],
+      "all_options": [
+        {
+          "text": "Đường đông dân cư, nhiều điểm giao cắt",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía sau phải chuyển làn",
+          "is_correct": true
+        },
+        {
+          "text": "Bên phải có xe đang dừng đỗ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc và giữ khoảng cách để tránh va chạm bất ngờ",
+      "wrong_answers": [
+        "Áp sát xe môi trường chờ vượt khi có khe hở",
+        "Bấm còi để xe môi trường di chuyển nhường đường",
+        "Tăng tốc vượt lên không nhường"
+      ],
+      "all_options": [
+        {
+          "text": "Áp sát xe môi trường chờ vượt khi có khe hở",
+          "is_correct": false
+        },
+        {
+          "text": "Bấm còi để xe môi trường di chuyển nhường đường",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc và giữ khoảng cách để tránh va chạm bất ngờ",
+          "is_correct": true
+        },
+        {
+          "text": "Tăng tốc vượt lên không nhường",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "stt": 70,
+  "clip_id": 71,
+  "title": "Đường cong ban ngày",
+  "chapter": "Chương IV - Giao thông trên đường núi",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/70/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/71/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Đường cong bên phải nguy hiểm",
+      "wrong_answers": [
+        "Có xe chạy ngược chiều nguy hiểm",
+        "Xe con bên trái đi ra",
+        "Đường sương mù, trơn trượt"
+      ],
+      "all_options": [
+        {
+          "text": "Có xe chạy ngược chiều nguy hiểm",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con bên trái đi ra",
+          "is_correct": false
+        },
+        {
+          "text": "Đường cong bên phải nguy hiểm",
+          "is_correct": true
+        },
+        {
+          "text": "Đường sương mù, trơn trượt",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Có biển cảnh báo đường cong",
+      "wrong_answers": [
+        "Xe buýt phía sau tăng tốc bất thường",
+        "Có xe đỗ sát lề phải",
+        "Xe tải chở hàng nặng nguy hiểm"
+      ],
+      "all_options": [
+        {
+          "text": "Xe buýt phía sau tăng tốc bất thường",
+          "is_correct": false
+        },
+        {
+          "text": "Có xe đỗ sát lề phải",
+          "is_correct": false
+        },
+        {
+          "text": "Có biển cảnh báo đường cong",
+          "is_correct": true
+        },
+        {
+          "text": "Xe tải chở hàng nặng nguy hiểm",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Tầm nhìn bị khuất",
+      "wrong_answers": [
+        "Xe tải lấn làn để vượt",
+        "Có xe chạy ngược chiều",
+        "Xe con đánh lái rẽ trái với tốc độ cao"
+      ],
+      "all_options": [
+        {
+          "text": "Xe tải lấn làn để vượt",
+          "is_correct": false
+        },
+        {
+          "text": "Có xe chạy ngược chiều",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con đánh lái rẽ trái với tốc độ cao",
+          "is_correct": false
+        },
+        {
+          "text": "Tầm nhìn bị khuất",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc độ, giữ khoảng cách an toàn",
+      "wrong_answers": [
+        "Vượt xe phía trước ngay tại đường cong",
+        "Tăng tốc qua cong vì ban ngày nhìn rõ đường",
+        "Đi ra giữa đường để ôm cua cho gọn"
+      ],
+      "all_options": [
+        {
+          "text": "Vượt xe phía trước ngay tại đường cong",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc qua cong vì ban ngày nhìn rõ đường",
+          "is_correct": false
+        },
+        {
+          "text": "Đi ra giữa đường để ôm cua cho gọn",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc độ, giữ khoảng cách an toàn",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "stt": 116,
+  "clip_id": 117,
+  "title": "Xe phía trước bật đèn pha",
+  "chapter": "Chương VI - Tình huống tai nạn giao thông thực tế",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/116/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/117/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Phía trước có đá lỡ",
+      "wrong_answers": [
+        "Xe phía trước bật tín hiệu rẽ trái",
+        "Xe tải tránh thi công",
+        "Xe máy vượt đèn"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước bật tín hiệu rẽ trái",
+          "is_correct": false
+        },
+        {
+          "text": "Phía trước có đá lỡ",
+          "is_correct": true
+        },
+        {
+          "text": "Xe tải tránh thi công",
+          "is_correct": false
+        },
+        {
+          "text": "Xe máy vượt đèn",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Có biển cảnh báo",
+      "wrong_answers": [
+        "Đường cong nguy hiểm",
+        "Đường hai chiều, tim đường vạch liền"
+      ],
+      "all_options": [
+        {
+          "text": "Có biển cảnh báo",
+          "is_correct": true
+        },
+        {
+          "text": "Đường cong nguy hiểm",
+          "is_correct": false
+        },
+        {
+          "text": "Đường hai chiều, tim đường vạch liền",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Đá từ ta luy dương sụt lỡ",
+      "wrong_answers": [
+        "Đường đồi dốc",
+        "Đất đá rơi vươn vãi trên đường"
+      ],
+      "all_options": [
+        {
+          "text": "Đường đồi dốc",
+          "is_correct": false
+        },
+        {
+          "text": "Đất đá rơi vươn vãi trên đường",
+          "is_correct": false
+        },
+        {
+          "text": "Đá từ ta luy dương sụt lỡ",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, đi chậm và quan sát",
+      "wrong_answers": [
+        "Đi chậm, áp sát vào vách đá",
+        "Tăng tốc vượt qua thật nhanh"
+      ],
+      "all_options": [
+        {
+          "text": "Đi chậm, áp sát vào vách đá",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc vượt qua thật nhanh",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, đi chậm và quan sát",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

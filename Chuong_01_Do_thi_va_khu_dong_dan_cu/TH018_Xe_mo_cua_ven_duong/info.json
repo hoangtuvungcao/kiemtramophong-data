@@ -1,0 +1,122 @@
+{
+  "stt": 18,
+  "clip_id": 19,
+  "title": "Xe mở cửa ven đường",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/18/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/19/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe mở cửa ven đường",
+      "wrong_answers": [
+        "Đường cong ban đêm",
+        "Xe buýt xin đường",
+        "Xe cứu thương"
+      ],
+      "all_options": [
+        {
+          "text": "Xe mở cửa ven đường",
+          "is_correct": true
+        },
+        {
+          "text": "Đường cong ban đêm",
+          "is_correct": false
+        },
+        {
+          "text": "Xe buýt xin đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe cứu thương",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Có xe đỗ sát lề phải",
+      "wrong_answers": [
+        "Người đi bộ có dấu hiệu muốn qua đường",
+        "Xe phía sau bật tín hiệu xin vượt",
+        "Có lối nhỏ hoặc ngõ khuất bên đường"
+      ],
+      "all_options": [
+        {
+          "text": "Người đi bộ có dấu hiệu muốn qua đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía sau bật tín hiệu xin vượt",
+          "is_correct": false
+        },
+        {
+          "text": "Có xe đỗ sát lề phải",
+          "is_correct": true
+        },
+        {
+          "text": "Có lối nhỏ hoặc ngõ khuất bên đường",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Cửa xe bất ngờ mở ra",
+      "wrong_answers": [
+        "Xe bật xi nhan trái",
+        "Xe tải dừng đột ngột",
+        "Xe đột ngột chuyển hướng cắt ngang đầu xe"
+      ],
+      "all_options": [
+        {
+          "text": "Xe bật xi nhan trái",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải dừng đột ngột",
+          "is_correct": false
+        },
+        {
+          "text": "Cửa xe bất ngờ mở ra",
+          "is_correct": true
+        },
+        {
+          "text": "Xe đột ngột chuyển hướng cắt ngang đầu xe",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giữ khoảng cách rộng với xe đỗ, giảm tốc khi đi sát",
+      "wrong_answers": [
+        "Bấm còi khi đi qua từng xe đỗ để người trong xe không mở cửa",
+        "Đi sát xe đỗ để tiết kiệm khoảng cách với dòng xe bên trái",
+        "Giữ nguyên tốc độ vì người mở cửa phải tự quan sát trước"
+      ],
+      "all_options": [
+        {
+          "text": "Bấm còi khi đi qua từng xe đỗ để người trong xe không mở cửa",
+          "is_correct": false
+        },
+        {
+          "text": "Đi sát xe đỗ để tiết kiệm khoảng cách với dòng xe bên trái",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ vì người mở cửa phải tự quan sát trước",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ khoảng cách rộng với xe đỗ, giảm tốc khi đi sát",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

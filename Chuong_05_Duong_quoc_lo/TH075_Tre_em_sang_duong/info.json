@@ -1,0 +1,122 @@
+{
+  "stt": 75,
+  "clip_id": 76,
+  "title": "Trẻ em sang đường",
+  "chapter": "Chương V - Giao thông trên đường quốc lộ",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/75/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/76/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Người ra đường không quan sát",
+      "wrong_answers": [
+        "Xe công nghệ dừng đột ngột",
+        "Người đi bộ phía trước",
+        "Đường cong ban ngày"
+      ],
+      "all_options": [
+        {
+          "text": "Xe công nghệ dừng đột ngột",
+          "is_correct": false
+        },
+        {
+          "text": "Người đi bộ phía trước",
+          "is_correct": false
+        },
+        {
+          "text": "Đường cong ban ngày",
+          "is_correct": false
+        },
+        {
+          "text": "Người ra đường không quan sát",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Có biển cảnh báo nguy hiểm",
+      "wrong_answers": [
+        "Xe lớn di chuyển gần làn",
+        "Tầm nhìn giảm",
+        "Xe mô tô quay đầu"
+      ],
+      "all_options": [
+        {
+          "text": "Xe lớn di chuyển gần làn",
+          "is_correct": false
+        },
+        {
+          "text": "Tầm nhìn giảm",
+          "is_correct": false
+        },
+        {
+          "text": "Xe mô tô quay đầu",
+          "is_correct": false
+        },
+        {
+          "text": "Có biển cảnh báo nguy hiểm",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe mô tô phanh gấp tránh người ra đường",
+      "wrong_answers": [
+        "Xe đánh lái",
+        "Xe đột ngột chuyển hướng cắt ngang đầu xe",
+        "Người đi bộ bất ngờ bước ra từ sau xe tải"
+      ],
+      "all_options": [
+        {
+          "text": "Xe mô tô phanh gấp tránh người ra đường",
+          "is_correct": true
+        },
+        {
+          "text": "Xe đánh lái",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đột ngột chuyển hướng cắt ngang đầu xe",
+          "is_correct": false
+        },
+        {
+          "text": "Người đi bộ bất ngờ bước ra từ sau xe tải",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc độ, dừng lại nhường đường cho người đi bộ",
+      "wrong_answers": [
+        "Bấm còi để người đứng lại rồi đi tiếp",
+        "Tăng tốc vượt qua trước khi trẻ sang hết đường",
+        "Giữ nguyên tốc độ vì người tự phải quan sát"
+      ],
+      "all_options": [
+        {
+          "text": "Giảm tốc độ, dừng lại nhường đường cho người đi bộ",
+          "is_correct": true
+        },
+        {
+          "text": "Bấm còi để người đứng lại rồi đi tiếp",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc vượt qua trước khi trẻ sang hết đường",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ vì người tự phải quan sát",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

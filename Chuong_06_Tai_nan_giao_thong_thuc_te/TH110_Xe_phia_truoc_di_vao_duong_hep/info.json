@@ -1,0 +1,107 @@
+{
+  "stt": 110,
+  "clip_id": 111,
+  "title": "Xe phía trước đi vào đường hẹp",
+  "chapter": "Chương VI - Tình huống tai nạn giao thông thực tế",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/110/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/111/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe phía trước dừng tại vạch",
+      "wrong_answers": [
+        "Xe đạp sang đường",
+        "Đường trơn trượt",
+        "Xe con vượt ẩu"
+      ],
+      "all_options": [
+        {
+          "text": "Xe đạp sang đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước dừng tại vạch",
+          "is_correct": true
+        },
+        {
+          "text": "Đường trơn trượt",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con vượt ẩu",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Giao lộ có đèn tín hiệu",
+      "wrong_answers": [
+        "Có giao lộ phía bên phải",
+        "Xe dừng bất ngờ"
+      ],
+      "all_options": [
+        {
+          "text": "Giao lộ có đèn tín hiệu",
+          "is_correct": true
+        },
+        {
+          "text": "Có giao lộ phía bên phải",
+          "is_correct": false
+        },
+        {
+          "text": "Xe dừng bất ngờ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe dừng đúng vạch",
+      "wrong_answers": [
+        "Xe bên phải không có dấu hiệu dừng lại",
+        "Đèn giao thông bị hỏng"
+      ],
+      "all_options": [
+        {
+          "text": "Xe bên phải không có dấu hiệu dừng lại",
+          "is_correct": false
+        },
+        {
+          "text": "Xe dừng đúng vạch",
+          "is_correct": true
+        },
+        {
+          "text": "Đèn giao thông bị hỏng",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc và dừng lại để giữ khoảng cách an toàn đúng quy định",
+      "wrong_answers": [
+        "Áp sát đuôi xe trước, bấm còi để xe đi nhanh hơn",
+        "Giữ nguyên tốc độ dánh lái sang phải để đi nhanh hơn"
+      ],
+      "all_options": [
+        {
+          "text": "Áp sát đuôi xe trước, bấm còi để xe đi nhanh hơn",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ dánh lái sang phải để đi nhanh hơn",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc và dừng lại để giữ khoảng cách an toàn đúng quy định",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

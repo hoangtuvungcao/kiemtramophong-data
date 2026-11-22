@@ -1,0 +1,117 @@
+{
+  "stt": 29,
+  "clip_id": 30,
+  "title": "Đường nhiều ổ gà",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/29/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/30/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Đường nhiều ổ gà",
+      "wrong_answers": [
+        "Xe tải đổ dốc",
+        "Xe phía trước bị ùn tắc",
+        "Người đi bộ phía trước"
+      ],
+      "all_options": [
+        {
+          "text": "Đường nhiều ổ gà",
+          "is_correct": true
+        },
+        {
+          "text": "Xe tải đổ dốc",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước bị ùn tắc",
+          "is_correct": false
+        },
+        {
+          "text": "Người đi bộ phía trước",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Mặt đường xấu, lồi lõm",
+      "wrong_answers": [
+        "Có trẻ gần đường",
+        "Nghe thấy tín hiệu còi ưu tiên",
+        "Xe phía trước di chuyển bất thường"
+      ],
+      "all_options": [
+        {
+          "text": "Có trẻ gần đường",
+          "is_correct": false
+        },
+        {
+          "text": "Nghe thấy tín hiệu còi ưu tiên",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước di chuyển bất thường",
+          "is_correct": false
+        },
+        {
+          "text": "Mặt đường xấu, lồi lõm",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe phía trước giảm tốc hoặc né",
+      "wrong_answers": [
+        "Không thấy rõ",
+        "Xe con lấn sang làn ngược chiều để vượt"
+      ],
+      "all_options": [
+        {
+          "text": "Không thấy rõ",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con lấn sang làn ngược chiều để vượt",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước giảm tốc hoặc né",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Hạ tốc độ và đi thẳng ổn định, tránh đánh lái gấp",
+      "wrong_answers": [
+        "Phanh gấp tại mỗi ổ gà để xe không bị hư",
+        "Đánh lái liên tục để né từng ổ gà",
+        "Tăng tốc qua nhanh cho đỡ xóc"
+      ],
+      "all_options": [
+        {
+          "text": "Hạ tốc độ và đi thẳng ổn định, tránh đánh lái gấp",
+          "is_correct": true
+        },
+        {
+          "text": "Phanh gấp tại mỗi ổ gà để xe không bị hư",
+          "is_correct": false
+        },
+        {
+          "text": "Đánh lái liên tục để né từng ổ gà",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc qua nhanh cho đỡ xóc",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

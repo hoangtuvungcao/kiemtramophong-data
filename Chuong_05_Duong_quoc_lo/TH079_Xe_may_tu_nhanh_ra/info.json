@@ -1,0 +1,122 @@
+{
+  "stt": 79,
+  "clip_id": 80,
+  "title": "Xe máy từ nhánh ra",
+  "chapter": "Chương V - Giao thông trên đường quốc lộ",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/79/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/80/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe mô tô từ đường nhánh đi ra",
+      "wrong_answers": [
+        "Xe phía trước che khuất tầm nhìn",
+        "Xe phía trước qua trường học",
+        "Xe phía trước phanh gấp"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước che khuất tầm nhìn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước qua trường học",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước phanh gấp",
+          "is_correct": false
+        },
+        {
+          "text": "Xe mô tô từ đường nhánh đi ra",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Nơi đường giao nhau",
+      "wrong_answers": [
+        "Xe phía trước di chuyển bất thường",
+        "Xe chạy ngược chiều có tín hiệu rẽ",
+        "Xe chuyên dụng hoạt động trên đường"
+      ],
+      "all_options": [
+        {
+          "text": "Nơi đường giao nhau",
+          "is_correct": true
+        },
+        {
+          "text": "Xe phía trước di chuyển bất thường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe chạy ngược chiều có tín hiệu rẽ",
+          "is_correct": false
+        },
+        {
+          "text": "Xe chuyên dụng hoạt động trên đường",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe mô tô cắt ngang",
+      "wrong_answers": [
+        "Xe buýt rẽ trái",
+        "Xe con lấn sang làn ngược chiều để vượt",
+        "Xe phía trước phanh gấp"
+      ],
+      "all_options": [
+        {
+          "text": "Xe mô tô cắt ngang",
+          "is_correct": true
+        },
+        {
+          "text": "Xe buýt rẽ trái",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con lấn sang làn ngược chiều để vượt",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước phanh gấp",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc độ và dừng lại nhường đường",
+      "wrong_answers": [
+        "Tăng tốc qua nhanh khỏi khu vực có ngõ",
+        "Chuyển hướng sang phải để tránh",
+        "Giữ nguyên tốc độ vì đang đi trên đường chính"
+      ],
+      "all_options": [
+        {
+          "text": "Tăng tốc qua nhanh khỏi khu vực có ngõ",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc độ và dừng lại nhường đường",
+          "is_correct": true
+        },
+        {
+          "text": "Chuyển hướng sang phải để tránh",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ vì đang đi trên đường chính",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "stt": 21,
+  "clip_id": 22,
+  "title": "Xe phía trước lùi",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/21/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/22/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe phía trước lùi",
+      "wrong_answers": [
+        "Xe lùi trên cao tốc",
+        "Xe phía trước phanh liên tục",
+        "Xe tải vượt"
+      ],
+      "all_options": [
+        {
+          "text": "Xe lùi trên cao tốc",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước lùi",
+          "is_correct": true
+        },
+        {
+          "text": "Xe phía trước phanh liên tục",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải vượt",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe phía trước dừng lâu bất thường",
+      "wrong_answers": [
+        "Xe lớn ở phía trước bên cạnh",
+        "Có xe đi bên chiều ngược lại"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước dừng lâu bất thường",
+          "is_correct": true
+        },
+        {
+          "text": "Xe lớn ở phía trước bên cạnh",
+          "is_correct": false
+        },
+        {
+          "text": "Có xe đi bên chiều ngược lại",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Đèn lùi bật và xe bắt đầu di chuyển ngược",
+      "wrong_answers": [
+        "Không quan sát rõ phía trước",
+        "Xe phía trước giảm tốc hoặc né",
+        "Có nhiều xe đỗ bên đường"
+      ],
+      "all_options": [
+        {
+          "text": "Không quan sát rõ phía trước",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước giảm tốc hoặc né",
+          "is_correct": false
+        },
+        {
+          "text": "Có nhiều xe đỗ bên đường",
+          "is_correct": false
+        },
+        {
+          "text": "Đèn lùi bật và xe bắt đầu di chuyển ngược",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Dừng lại ở khoảng cách an toàn, không áp sát",
+      "wrong_answers": [
+        "Đánh lái sang làn bên cạnh để vượt qua xe đang lùi",
+        "Tăng tốc vượt lên trước khi xe kịp lùi tới",
+        "Bấm còi liên tục và áp sát để xe trước không lùi được"
+      ],
+      "all_options": [
+        {
+          "text": "Dừng lại ở khoảng cách an toàn, không áp sát",
+          "is_correct": true
+        },
+        {
+          "text": "Đánh lái sang làn bên cạnh để vượt qua xe đang lùi",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc vượt lên trước khi xe kịp lùi tới",
+          "is_correct": false
+        },
+        {
+          "text": "Bấm còi liên tục và áp sát để xe trước không lùi được",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

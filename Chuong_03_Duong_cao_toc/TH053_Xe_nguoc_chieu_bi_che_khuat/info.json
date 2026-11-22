@@ -1,0 +1,112 @@
+{
+  "stt": 53,
+  "clip_id": 54,
+  "title": "Xe ngược chiều bị che khuất",
+  "chapter": "Chương III - Giao thông trên đường cao tốc",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/53/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/54/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe ngược chiều bị che khuất",
+      "wrong_answers": [
+        "Xe phía trước giảm tốc bất thường",
+        "Xe buýt xin đường",
+        "Xe phía trước rẽ vào ngõ"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước giảm tốc bất thường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe buýt xin đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước rẽ vào ngõ",
+          "is_correct": false
+        },
+        {
+          "text": "Xe ngược chiều bị che khuất",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Có xe lớn che khuất tầm nhìn phía trước",
+      "wrong_answers": [
+        "Xe tải phía trước chuyển làn",
+        "Xe chạy không đều",
+        "Xe chạy chậm bất thường"
+      ],
+      "all_options": [
+        {
+          "text": "Xe tải phía trước chuyển làn",
+          "is_correct": false
+        },
+        {
+          "text": "Có xe lớn che khuất tầm nhìn phía trước",
+          "is_correct": true
+        },
+        {
+          "text": "Xe chạy không đều",
+          "is_correct": false
+        },
+        {
+          "text": "Xe chạy chậm bất thường",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe đối diện bất ngờ xuất hiện",
+      "wrong_answers": [
+        "Xe con đi cùng chiều phanh gấp",
+        "Ban đêm tầm nhìn bị hạn chế"
+      ],
+      "all_options": [
+        {
+          "text": "Xe con đi cùng chiều phanh gấp",
+          "is_correct": false
+        },
+        {
+          "text": "Ban đêm tầm nhìn bị hạn chế",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đối diện bất ngờ xuất hiện",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, giữ khoảng cách an toàn và quan sát",
+      "wrong_answers": [
+        "Bấm còi và nháy đèn pha liên tục khi qua vùng khuất",
+        "Giữ nguyên tốc độ để xe đi ngược chiều đi sát vô lề phải"
+      ],
+      "all_options": [
+        {
+          "text": "Bấm còi và nháy đèn pha liên tục khi qua vùng khuất",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ để xe đi ngược chiều đi sát vô lề phải",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, giữ khoảng cách an toàn và quan sát",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

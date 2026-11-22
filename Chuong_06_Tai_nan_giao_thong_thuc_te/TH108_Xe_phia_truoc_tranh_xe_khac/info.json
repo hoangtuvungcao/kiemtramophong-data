@@ -1,0 +1,102 @@
+{
+  "stt": 108,
+  "clip_id": 109,
+  "title": "Xe phía trước tránh xe khác",
+  "chapter": "Chương VI - Tình huống tai nạn giao thông thực tế",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/108/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/109/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe lấn làn",
+      "wrong_answers": [
+        "Xe 16 chỗ vào làn",
+        "Xe phía trước chuyển làn không tín hiệu"
+      ],
+      "all_options": [
+        {
+          "text": "Xe lấn làn",
+          "is_correct": true
+        },
+        {
+          "text": "Xe 16 chỗ vào làn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước chuyển làn không tín hiệu",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Đường mưa, trơn",
+      "wrong_answers": [
+        "Có báo hiệu đường cong",
+        "Có đàn vật nuôi gần đường"
+      ],
+      "all_options": [
+        {
+          "text": "Có báo hiệu đường cong",
+          "is_correct": false
+        },
+        {
+          "text": "Đường mưa, trơn",
+          "is_correct": true
+        },
+        {
+          "text": "Có đàn vật nuôi gần đường",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe mất lái không giữ đúng phần đường",
+      "wrong_answers": [
+        "Đường hai chiều vắng xe",
+        "Xe đi chiều ngược lại lấn làn"
+      ],
+      "all_options": [
+        {
+          "text": "Đường hai chiều vắng xe",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đi chiều ngược lại lấn làn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe mất lái không giữ đúng phần đường",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, giữ khoảng cách an toàn",
+      "wrong_answers": [
+        "Tăng tốc để ổn định hướng di chuyển",
+        "Lấy lái sang trái để mở rộng tầm nhìn"
+      ],
+      "all_options": [
+        {
+          "text": "Tăng tốc để ổn định hướng di chuyển",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, giữ khoảng cách an toàn",
+          "is_correct": true
+        },
+        {
+          "text": "Lấy lái sang trái để mở rộng tầm nhìn",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

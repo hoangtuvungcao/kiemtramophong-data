@@ -1,0 +1,112 @@
+{
+  "stt": 50,
+  "clip_id": 51,
+  "title": "Xe tải cắt đầu",
+  "chapter": "Chương III - Giao thông trên đường cao tốc",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/50/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/51/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe tải cắt đầu",
+      "wrong_answers": [
+        "Dê đứng ven đường",
+        "Xe phía trước đi vào đường hẹp",
+        "Xe tải tránh thi công"
+      ],
+      "all_options": [
+        {
+          "text": "Xe tải cắt đầu",
+          "is_correct": true
+        },
+        {
+          "text": "Dê đứng ven đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước đi vào đường hẹp",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải tránh thi công",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe lớn ở phía trước bên cạnh",
+      "wrong_answers": [
+        "Bên trái có xe vượt lên",
+        "Tốc độ thấp bất thường"
+      ],
+      "all_options": [
+        {
+          "text": "Bên trái có xe vượt lên",
+          "is_correct": false
+        },
+        {
+          "text": "Xe lớn ở phía trước bên cạnh",
+          "is_correct": true
+        },
+        {
+          "text": "Tốc độ thấp bất thường",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe đột ngột chuyển hướng cắt ngang đầu xe",
+      "wrong_answers": [
+        "Ban đêm tầm nhìn bị hạn chế",
+        "Xe chuyển vào làn của bạn"
+      ],
+      "all_options": [
+        {
+          "text": "Ban đêm tầm nhìn bị hạn chế",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đột ngột chuyển hướng cắt ngang đầu xe",
+          "is_correct": true
+        },
+        {
+          "text": "Xe chuyển vào làn của bạn",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, giữ khoảng cách an toàn",
+      "wrong_answers": [
+        "Bấm còi liên tục để xe tải không cắt đầu",
+        "Đánh lái gấp sang phải lên lề để né",
+        "Tăng tốc vượt lên trước khi bị cắt đầu"
+      ],
+      "all_options": [
+        {
+          "text": "Bấm còi liên tục để xe tải không cắt đầu",
+          "is_correct": false
+        },
+        {
+          "text": "Đánh lái gấp sang phải lên lề để né",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, giữ khoảng cách an toàn",
+          "is_correct": true
+        },
+        {
+          "text": "Tăng tốc vượt lên trước khi bị cắt đầu",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

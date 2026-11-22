@@ -1,0 +1,107 @@
+{
+  "stt": 100,
+  "clip_id": 101,
+  "title": "Xe phía trước lấn làn",
+  "chapter": "Chương VI - Tình huống tai nạn giao thông thực tế",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/100/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/101/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Giao nhau với đường sắt",
+      "wrong_answers": [
+        "Xe con bên trái đi ra",
+        "Xe phía trước bật đèn pha",
+        "Xe con bên trái đi ra"
+      ],
+      "all_options": [
+        {
+          "text": "Xe con bên trái đi ra",
+          "is_correct": false
+        },
+        {
+          "text": "Giao nhau với đường sắt",
+          "is_correct": true
+        },
+        {
+          "text": "Xe phía trước bật đèn pha",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con bên trái đi ra",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Có biển cảnh báo giao với đường sắt",
+      "wrong_answers": [
+        "Trời tối, tầm nhìn kém",
+        "Có xe đạp gần đường"
+      ],
+      "all_options": [
+        {
+          "text": "Trời tối, tầm nhìn kém",
+          "is_correct": false
+        },
+        {
+          "text": "Có xe đạp gần đường",
+          "is_correct": false
+        },
+        {
+          "text": "Có biển cảnh báo giao với đường sắt",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Đoàn tàu đi tới",
+      "wrong_answers": [
+        "Đường giao nhau đồng cấp",
+        "Xuất hiện vật cản"
+      ],
+      "all_options": [
+        {
+          "text": "Đường giao nhau đồng cấp",
+          "is_correct": false
+        },
+        {
+          "text": "Xuất hiện vật cản",
+          "is_correct": false
+        },
+        {
+          "text": "Đoàn tàu đi tới",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, dừng đúng quy định chờ tau qua",
+      "wrong_answers": [
+        "Bấm còi cảnh báo tăng tốc vượt qua",
+        "Giảm tốc, dừng xe bên trái chờ tàu qua"
+      ],
+      "all_options": [
+        {
+          "text": "Bấm còi cảnh báo tăng tốc vượt qua",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, dừng xe bên trái chờ tàu qua",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, dừng đúng quy định chờ tau qua",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

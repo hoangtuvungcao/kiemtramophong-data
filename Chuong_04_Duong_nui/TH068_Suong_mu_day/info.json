@@ -1,0 +1,122 @@
+{
+  "stt": 68,
+  "clip_id": 69,
+  "title": "Sương mù dày",
+  "chapter": "Chương IV - Giao thông trên đường núi",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/68/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/69/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Đường núi nhiều sương mù",
+      "wrong_answers": [
+        "Dê đứng ven đường",
+        "Xe phía trước giảm tốc bất thường",
+        "Đường có nhiều ổ gà"
+      ],
+      "all_options": [
+        {
+          "text": "Đường núi nhiều sương mù",
+          "is_correct": true
+        },
+        {
+          "text": "Dê đứng ven đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước giảm tốc bất thường",
+          "is_correct": false
+        },
+        {
+          "text": "Đường có nhiều ổ gà",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Đường cong, sương mù, tầm nhìn bị hạn chế",
+      "wrong_answers": [
+        "Đường cong nguy hiểm",
+        "Xe giảm tốc gần điểm quay đầu",
+        "Đường hẹp, có nhiều xe chạy ngược chiều"
+      ],
+      "all_options": [
+        {
+          "text": "Đường cong nguy hiểm",
+          "is_correct": false
+        },
+        {
+          "text": "Xe giảm tốc gần điểm quay đầu",
+          "is_correct": false
+        },
+        {
+          "text": "Đường cong, sương mù, tầm nhìn bị hạn chế",
+          "is_correct": true
+        },
+        {
+          "text": "Đường hẹp, có nhiều xe chạy ngược chiều",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Đường cong, nhiều sương mù, nhiều vật nuôi trên đường",
+      "wrong_answers": [
+        "Xe bật xi nhan phải và giảm tốc",
+        "Xe bắt đầu xoay đầu xe",
+        "Xe đi ra"
+      ],
+      "all_options": [
+        {
+          "text": "Xe bật xi nhan phải và giảm tốc",
+          "is_correct": false
+        },
+        {
+          "text": "Đường cong, nhiều sương mù, nhiều vật nuôi trên đường",
+          "is_correct": true
+        },
+        {
+          "text": "Xe bắt đầu xoay đầu xe",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đi ra",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc độ, giữ khoảng cách an toàn và bật tín hiệu cảnh báo",
+      "wrong_answers": [
+        "Tăng tốc để thoát nhanh khỏi vùng sương mù",
+        "Giữ nguyên tốc độ vì đã bật đèn xe",
+        "Bám sát xe phía trước để theo đèn hậu qua vùng sương"
+      ],
+      "all_options": [
+        {
+          "text": "Tăng tốc để thoát nhanh khỏi vùng sương mù",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ vì đã bật đèn xe",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc độ, giữ khoảng cách an toàn và bật tín hiệu cảnh báo",
+          "is_correct": true
+        },
+        {
+          "text": "Bám sát xe phía trước để theo đèn hậu qua vùng sương",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

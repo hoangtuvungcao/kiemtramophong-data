@@ -1,0 +1,122 @@
+{
+  "stt": 84,
+  "clip_id": 85,
+  "title": "Xe phía trước bật tín hiệu rẽ trái",
+  "chapter": "Chương V - Giao thông trên đường quốc lộ",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/84/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/85/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe phía trước bật tín hiệu chuyển làn",
+      "wrong_answers": [
+        "Xe tải chuyển làn",
+        "Xe con bên trái đi ra",
+        "Xe con rẽ trái nhanh"
+      ],
+      "all_options": [
+        {
+          "text": "Xe tải chuyển làn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con bên trái đi ra",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con rẽ trái nhanh",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước bật tín hiệu chuyển làn",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe buýt dừng lại, và cảnh báo bằng đèn",
+      "wrong_answers": [
+        "Xe con đi ra từ bên trái",
+        "Tại nơi đường giao nhau",
+        "Xe tải xin vượt"
+      ],
+      "all_options": [
+        {
+          "text": "Xe con đi ra từ bên trái",
+          "is_correct": false
+        },
+        {
+          "text": "Tại nơi đường giao nhau",
+          "is_correct": false
+        },
+        {
+          "text": "Xe buýt dừng lại, và cảnh báo bằng đèn",
+          "is_correct": true
+        },
+        {
+          "text": "Xe tải xin vượt",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe bật xi nhan trái xin chuyển làn",
+      "wrong_answers": [
+        "Xe lấn sang làn của bạn",
+        "Xe phía trước di chuyển chậm",
+        "Xe phía sau xin vượt"
+      ],
+      "all_options": [
+        {
+          "text": "Xe lấn sang làn của bạn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước di chuyển chậm",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía sau xin vượt",
+          "is_correct": false
+        },
+        {
+          "text": "Xe bật xi nhan trái xin chuyển làn",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc độ, dừng lại an toàn, quan sát nếu không có nguy hiểm xin chuyển làn sang trái",
+      "wrong_answers": [
+        "Giảm tốc độ và chuyển ngay sang làn bên trái",
+        "Bấm còi liên tục",
+        "Áp sát đuôi xe trước để theo xe con"
+      ],
+      "all_options": [
+        {
+          "text": "Giảm tốc độ và chuyển ngay sang làn bên trái",
+          "is_correct": false
+        },
+        {
+          "text": "Bấm còi liên tục",
+          "is_correct": false
+        },
+        {
+          "text": "Áp sát đuôi xe trước để theo xe con",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc độ, dừng lại an toàn, quan sát nếu không có nguy hiểm xin chuyển làn sang trái",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

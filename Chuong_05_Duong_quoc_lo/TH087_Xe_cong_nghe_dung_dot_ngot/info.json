@@ -1,0 +1,122 @@
+{
+  "stt": 87,
+  "clip_id": 88,
+  "title": "Xe công nghệ dừng đột ngột",
+  "chapter": "Chương V - Giao thông trên đường quốc lộ",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/87/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/88/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Đường bộ giao nhau với đường sắt",
+      "wrong_answers": [
+        "Nơi giao nhau có tín hiệu đèn",
+        "Giao nhau với đường ưu tiên",
+        "Đường có vật cản phía trước"
+      ],
+      "all_options": [
+        {
+          "text": "Đường bộ giao nhau với đường sắt",
+          "is_correct": true
+        },
+        {
+          "text": "Nơi giao nhau có tín hiệu đèn",
+          "is_correct": false
+        },
+        {
+          "text": "Giao nhau với đường ưu tiên",
+          "is_correct": false
+        },
+        {
+          "text": "Đường có vật cản phía trước",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Biển báo nguy hiểm giao nhau với đường sắt",
+      "wrong_answers": [
+        "Biển báo có tàu điện",
+        "Xe phía trước phanh gấp",
+        "Có chướng ngại vật phía trước"
+      ],
+      "all_options": [
+        {
+          "text": "Biển báo có tàu điện",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước phanh gấp",
+          "is_correct": false
+        },
+        {
+          "text": "Biển báo nguy hiểm giao nhau với đường sắt",
+          "is_correct": true
+        },
+        {
+          "text": "Có chướng ngại vật phía trước",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Tàu hỏa di chuyển cắt ngang qua đường bộ",
+      "wrong_answers": [
+        "Xe phía trước giảm tốc độ",
+        "Tầm nhìn bị che khuất",
+        "Xe con phanh gấp"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước giảm tốc độ",
+          "is_correct": false
+        },
+        {
+          "text": "Tàu hỏa di chuyển cắt ngang qua đường bộ",
+          "is_correct": true
+        },
+        {
+          "text": "Tầm nhìn bị che khuất",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con phanh gấp",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc độ, giữ khoảng cách an toàn trước hàng rào chắn",
+      "wrong_answers": [
+        "Giảm tốc độ, đi chậm sát vào hàng rào chắn",
+        "Bấm còi to",
+        "Đi sát vào đuôi xe con phía trước"
+      ],
+      "all_options": [
+        {
+          "text": "Giảm tốc độ, giữ khoảng cách an toàn trước hàng rào chắn",
+          "is_correct": true
+        },
+        {
+          "text": "Giảm tốc độ, đi chậm sát vào hàng rào chắn",
+          "is_correct": false
+        },
+        {
+          "text": "Bấm còi to",
+          "is_correct": false
+        },
+        {
+          "text": "Đi sát vào đuôi xe con phía trước",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

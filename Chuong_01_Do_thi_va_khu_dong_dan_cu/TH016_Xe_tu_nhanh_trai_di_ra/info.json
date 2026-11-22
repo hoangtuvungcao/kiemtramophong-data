@@ -1,0 +1,112 @@
+{
+  "stt": 16,
+  "clip_id": 17,
+  "title": "Xe từ nhánh trái đi ra",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/16/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/17/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe từ nhánh trái đi ra",
+      "wrong_answers": [
+        "Xe môi trường dừng",
+        "Xe mở cửa ven đường",
+        "Xe phía trước lùi"
+      ],
+      "all_options": [
+        {
+          "text": "Xe môi trường dừng",
+          "is_correct": false
+        },
+        {
+          "text": "Xe từ nhánh trái đi ra",
+          "is_correct": true
+        },
+        {
+          "text": "Xe mở cửa ven đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước lùi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Có giao lộ bên trái, tầm nhìn bị che",
+      "wrong_answers": [
+        "Có xe đi bên chiều ngược lại",
+        "Nhiều xe đỗ hai bên đường"
+      ],
+      "all_options": [
+        {
+          "text": "Có xe đi bên chiều ngược lại",
+          "is_correct": false
+        },
+        {
+          "text": "Nhiều xe đỗ hai bên đường",
+          "is_correct": false
+        },
+        {
+          "text": "Có giao lộ bên trái, tầm nhìn bị che",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe từ bên trái tiến gần ra đường chính",
+      "wrong_answers": [
+        "Xe chiều ngược lại bật xi nhan lấn làn",
+        "Đèn phanh bật sáng đột ngột"
+      ],
+      "all_options": [
+        {
+          "text": "Xe chiều ngược lại bật xi nhan lấn làn",
+          "is_correct": false
+        },
+        {
+          "text": "Đèn phanh bật sáng đột ngột",
+          "is_correct": false
+        },
+        {
+          "text": "Xe từ bên trái tiến gần ra đường chính",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, quan sát sâu vào giao lộ và sẵn sàng dừng",
+      "wrong_answers": [
+        "Bấm còi liên tục để xe từ nhánh trái dừng lại",
+        "Tăng tốc vượt qua giao lộ thật nhanh trước khi xe kia ra",
+        "Đánh lái sang phải lên lề để tránh xe từ nhánh trái"
+      ],
+      "all_options": [
+        {
+          "text": "Bấm còi liên tục để xe từ nhánh trái dừng lại",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, quan sát sâu vào giao lộ và sẵn sàng dừng",
+          "is_correct": true
+        },
+        {
+          "text": "Tăng tốc vượt qua giao lộ thật nhanh trước khi xe kia ra",
+          "is_correct": false
+        },
+        {
+          "text": "Đánh lái sang phải lên lề để tránh xe từ nhánh trái",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

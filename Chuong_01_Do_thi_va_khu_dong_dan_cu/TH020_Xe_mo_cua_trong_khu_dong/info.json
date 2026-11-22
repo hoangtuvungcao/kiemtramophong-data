@@ -1,0 +1,122 @@
+{
+  "stt": 20,
+  "clip_id": 21,
+  "title": "Xe mở cửa trong khu đông",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/20/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/21/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe mở cửa trong khu đông",
+      "wrong_answers": [
+        "Xe container quay đầu",
+        "Xe tải sang đường",
+        "Xe tải phanh gấp"
+      ],
+      "all_options": [
+        {
+          "text": "Xe container quay đầu",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải sang đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe mở cửa trong khu đông",
+          "is_correct": true
+        },
+        {
+          "text": "Xe tải phanh gấp",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Nhiều xe đỗ hai bên đường",
+      "wrong_answers": [
+        "Đường hai chiều không có dải phân cách",
+        "Đường trong khu vực đông dân cư",
+        "Khu vực có biển báo công trường"
+      ],
+      "all_options": [
+        {
+          "text": "Đường hai chiều không có dải phân cách",
+          "is_correct": false
+        },
+        {
+          "text": "Đường trong khu vực đông dân cư",
+          "is_correct": false
+        },
+        {
+          "text": "Nhiều xe đỗ hai bên đường",
+          "is_correct": true
+        },
+        {
+          "text": "Khu vực có biển báo công trường",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Một xe mở cửa đột ngột",
+      "wrong_answers": [
+        "Xe máy đi trong vòng xoay đi thiếu quan sát",
+        "Xe bên đường lao ra đột ngột",
+        "Xe đột ngột chuyển hướng cắt ngang đầu xe"
+      ],
+      "all_options": [
+        {
+          "text": "Xe máy đi trong vòng xoay đi thiếu quan sát",
+          "is_correct": false
+        },
+        {
+          "text": "Một xe mở cửa đột ngột",
+          "is_correct": true
+        },
+        {
+          "text": "Xe bên đường lao ra đột ngột",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đột ngột chuyển hướng cắt ngang đầu xe",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Đi chậm đều, giữ khoảng cách hai bên và sẵn sàng phanh",
+      "wrong_answers": [
+        "Giữ nguyên tốc độ vì mình đang đi giữa làn đúng luật",
+        "Đi sát một bên để né bên còn lại",
+        "Tăng tốc qua nhanh khu vực có nhiều xe đỗ"
+      ],
+      "all_options": [
+        {
+          "text": "Giữ nguyên tốc độ vì mình đang đi giữa làn đúng luật",
+          "is_correct": false
+        },
+        {
+          "text": "Đi chậm đều, giữ khoảng cách hai bên và sẵn sàng phanh",
+          "is_correct": true
+        },
+        {
+          "text": "Đi sát một bên để né bên còn lại",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc qua nhanh khu vực có nhiều xe đỗ",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

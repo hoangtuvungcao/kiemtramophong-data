@@ -1,0 +1,122 @@
+{
+  "stt": 35,
+  "clip_id": 36,
+  "title": "Xe khách tránh xe khác",
+  "chapter": "Chương II - Giao thông trên đường nông thôn",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/35/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/36/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe khách tránh xe khác",
+      "wrong_answers": [
+        "Xe phía trước bị che khuất",
+        "Đường nhiều ổ gà",
+        "Xe phía trước chở hàng cồng kềnh"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước bị che khuất",
+          "is_correct": false
+        },
+        {
+          "text": "Xe khách tránh xe khác",
+          "is_correct": true
+        },
+        {
+          "text": "Đường nhiều ổ gà",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước chở hàng cồng kềnh",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe khách phía trước di chuyển bất thường",
+      "wrong_answers": [
+        "Mặt đường xấu",
+        "Xe lớn di chuyển gần làn",
+        "Có xe đạp gần đường"
+      ],
+      "all_options": [
+        {
+          "text": "Mặt đường xấu",
+          "is_correct": false
+        },
+        {
+          "text": "Xe lớn di chuyển gần làn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe khách phía trước di chuyển bất thường",
+          "is_correct": true
+        },
+        {
+          "text": "Có xe đạp gần đường",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe khách đánh lái sang làn khác",
+      "wrong_answers": [
+        "Biển báo đoạn đường hay xảy ra tai nạn",
+        "Xe đối diện tiến vào đoạn hẹp cùng lúc",
+        "Xe bật xi nhan trái"
+      ],
+      "all_options": [
+        {
+          "text": "Biển báo đoạn đường hay xảy ra tai nạn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đối diện tiến vào đoạn hẹp cùng lúc",
+          "is_correct": false
+        },
+        {
+          "text": "Xe bật xi nhan trái",
+          "is_correct": false
+        },
+        {
+          "text": "Xe khách đánh lái sang làn khác",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc và tăng khoảng cách để tránh bị ép",
+      "wrong_answers": [
+        "Đánh lái theo cùng hướng xe khách đang tránh",
+        "Tăng tốc vượt lên trước khi xe khách lấn sang làn mình",
+        "Áp sát đuôi xe khách để vượt ngay khi xe đó ổn định"
+      ],
+      "all_options": [
+        {
+          "text": "Đánh lái theo cùng hướng xe khách đang tránh",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc và tăng khoảng cách để tránh bị ép",
+          "is_correct": true
+        },
+        {
+          "text": "Tăng tốc vượt lên trước khi xe khách lấn sang làn mình",
+          "is_correct": false
+        },
+        {
+          "text": "Áp sát đuôi xe khách để vượt ngay khi xe đó ổn định",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

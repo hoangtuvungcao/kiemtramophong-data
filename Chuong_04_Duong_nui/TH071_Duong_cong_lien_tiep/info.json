@@ -1,0 +1,122 @@
+{
+  "stt": 71,
+  "clip_id": 72,
+  "title": "Đường cong liên tiếp",
+  "chapter": "Chương IV - Giao thông trên đường núi",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/71/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/72/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Đường trơn trượt, quanh co liên tiếp",
+      "wrong_answers": [
+        "Xe phía trước quay đầu",
+        "Xe con lấn làn",
+        "Xe phía trước có trẻ em"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước quay đầu",
+          "is_correct": false
+        },
+        {
+          "text": "Đường trơn trượt, quanh co liên tiếp",
+          "is_correct": true
+        },
+        {
+          "text": "Xe con lấn làn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước có trẻ em",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Đường núi, trời mưa trơn trượt",
+      "wrong_answers": [
+        "Xe tải chở hàng cồng kềnh",
+        "Đường hai chiều không có dải phân cách",
+        "Xe tải che khuất tầm nhìn"
+      ],
+      "all_options": [
+        {
+          "text": "Xe tải chở hàng cồng kềnh",
+          "is_correct": false
+        },
+        {
+          "text": "Đường hai chiều không có dải phân cách",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải che khuất tầm nhìn",
+          "is_correct": false
+        },
+        {
+          "text": "Đường núi, trời mưa trơn trượt",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Có xe đi phía trước, hạn chế tầm nhìn",
+      "wrong_answers": [
+        "Đèn phanh bật sáng đột ngột",
+        "Xe đạp đi ra thiếu quan sát",
+        "Xe dừng hàng loạt"
+      ],
+      "all_options": [
+        {
+          "text": "Đèn phanh bật sáng đột ngột",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đạp đi ra thiếu quan sát",
+          "is_correct": false
+        },
+        {
+          "text": "Có xe đi phía trước, hạn chế tầm nhìn",
+          "is_correct": true
+        },
+        {
+          "text": "Xe dừng hàng loạt",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Đi chậm, giữ khoảng cách an toàn với xe liền kề trước",
+      "wrong_answers": [
+        "Giữ nguyên tốc độ vì đã quen đường",
+        "Tăng tốc qua nhanh các đoạn cong nối tiếp",
+        "Nhanh chóng chuyển làn và vượt xe phía trước"
+      ],
+      "all_options": [
+        {
+          "text": "Giữ nguyên tốc độ vì đã quen đường",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc qua nhanh các đoạn cong nối tiếp",
+          "is_correct": false
+        },
+        {
+          "text": "Nhanh chóng chuyển làn và vượt xe phía trước",
+          "is_correct": false
+        },
+        {
+          "text": "Đi chậm, giữ khoảng cách an toàn với xe liền kề trước",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

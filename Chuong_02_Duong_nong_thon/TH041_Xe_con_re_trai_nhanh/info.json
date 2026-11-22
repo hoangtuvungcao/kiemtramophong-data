@@ -1,0 +1,112 @@
+{
+  "stt": 41,
+  "clip_id": 42,
+  "title": "Xe con rẽ trái nhanh",
+  "chapter": "Chương II - Giao thông trên đường nông thôn",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/41/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/42/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe con rẽ trái nhanh",
+      "wrong_answers": [
+        "Bò di chuyển qua đường",
+        "Xe con rẽ trái",
+        "Xe con nhập làn"
+      ],
+      "all_options": [
+        {
+          "text": "Xe con rẽ trái nhanh",
+          "is_correct": true
+        },
+        {
+          "text": "Bò di chuyển qua đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con rẽ trái",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con nhập làn",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Giao lộ phía trước, xe có xu hướng tăng tốc",
+      "wrong_answers": [
+        "Có xe lớn chắn tầm nhìn",
+        "Xe lớn di chuyển gần làn",
+        "Có lối nhỏ hoặc ngõ khuất bên đường"
+      ],
+      "all_options": [
+        {
+          "text": "Có xe lớn chắn tầm nhìn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe lớn di chuyển gần làn",
+          "is_correct": false
+        },
+        {
+          "text": "Có lối nhỏ hoặc ngõ khuất bên đường",
+          "is_correct": false
+        },
+        {
+          "text": "Giao lộ phía trước, xe có xu hướng tăng tốc",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe con đánh lái rẽ trái với tốc độ cao",
+      "wrong_answers": [
+        "Xe máy phía trước có dấu hiệu dừng lại",
+        "Xe đi ra từ ngõ bên phải"
+      ],
+      "all_options": [
+        {
+          "text": "Xe con đánh lái rẽ trái với tốc độ cao",
+          "is_correct": true
+        },
+        {
+          "text": "Xe máy phía trước có dấu hiệu dừng lại",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đi ra từ ngõ bên phải",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, giữ khoảng cách an toàn và quan sát hướng di chuyển của xe",
+      "wrong_answers": [
+        "Bấm còi để xe con phía đối diện dừng lại",
+        "Tăng tốc đi qua giao lộ trước"
+      ],
+      "all_options": [
+        {
+          "text": "Bấm còi để xe con phía đối diện dừng lại",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, giữ khoảng cách an toàn và quan sát hướng di chuyển của xe",
+          "is_correct": true
+        },
+        {
+          "text": "Tăng tốc đi qua giao lộ trước",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

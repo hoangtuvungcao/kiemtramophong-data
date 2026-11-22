@@ -1,0 +1,122 @@
+{
+  "stt": 76,
+  "clip_id": 77,
+  "title": "Trẻ chạy ra đường",
+  "chapter": "Chương V - Giao thông trên đường quốc lộ",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/76/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/77/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Trẻ em chạy ra đường",
+      "wrong_answers": [
+        "Xe phía trước quay đầu",
+        "Đường đèo núi",
+        "Trẻ em chơi gần đường"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước quay đầu",
+          "is_correct": false
+        },
+        {
+          "text": "Trẻ em chạy ra đường",
+          "is_correct": true
+        },
+        {
+          "text": "Đường đèo núi",
+          "is_correct": false
+        },
+        {
+          "text": "Trẻ em chơi gần đường",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Có trẻ gần đường",
+      "wrong_answers": [
+        "Nghe thấy tín hiệu còi ưu tiên",
+        "Đường có vật cản",
+        "Khu vực có dải phân cách, thường có người băng qua không đúng quy định"
+      ],
+      "all_options": [
+        {
+          "text": "Nghe thấy tín hiệu còi ưu tiên",
+          "is_correct": false
+        },
+        {
+          "text": "Đường có vật cản",
+          "is_correct": false
+        },
+        {
+          "text": "Khu vực có dải phân cách, thường có người băng qua không đúng quy định",
+          "is_correct": false
+        },
+        {
+          "text": "Có trẻ gần đường",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Trẻ em chạy ra bất ngờ",
+      "wrong_answers": [
+        "Đèn phanh bật sáng đột ngột",
+        "Không quan sát được",
+        "Xe trước có dấu hiệu trượt hoặc phanh"
+      ],
+      "all_options": [
+        {
+          "text": "Trẻ em chạy ra bất ngờ",
+          "is_correct": true
+        },
+        {
+          "text": "Đèn phanh bật sáng đột ngột",
+          "is_correct": false
+        },
+        {
+          "text": "Không quan sát được",
+          "is_correct": false
+        },
+        {
+          "text": "Xe trước có dấu hiệu trượt hoặc phanh",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Luôn giữ khoản cách an toàn, giảm tốc độ và dừng lại",
+      "wrong_answers": [
+        "Tăng tốc vượt qua trước khi trẻ chạy tới",
+        "Đánh lái gấp sang làn khác để tránh trẻ em",
+        "Bấm còi mạnh để trẻ em quay lại lề rồi đi tiếp"
+      ],
+      "all_options": [
+        {
+          "text": "Tăng tốc vượt qua trước khi trẻ chạy tới",
+          "is_correct": false
+        },
+        {
+          "text": "Đánh lái gấp sang làn khác để tránh trẻ em",
+          "is_correct": false
+        },
+        {
+          "text": "Luôn giữ khoản cách an toàn, giảm tốc độ và dừng lại",
+          "is_correct": true
+        },
+        {
+          "text": "Bấm còi mạnh để trẻ em quay lại lề rồi đi tiếp",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

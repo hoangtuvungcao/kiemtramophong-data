@@ -1,0 +1,107 @@
+{
+  "stt": 56,
+  "clip_id": 57,
+  "title": "Xe con xin đường",
+  "chapter": "Chương III - Giao thông trên đường cao tốc",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/56/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/57/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe con xin đường",
+      "wrong_answers": [
+        "Xe phía trước qua cầu hẹp",
+        "Xe chuyển làn",
+        "Xe phía trước đi ban đêm"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước qua cầu hẹp",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con xin đường",
+          "is_correct": true
+        },
+        {
+          "text": "Xe chuyển làn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước đi ban đêm",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe phía sau bên trái áp sát vượt lên",
+      "wrong_answers": [
+        "Xe tải phanh gấp",
+        "Xe phía trước ổn định tốc độ"
+      ],
+      "all_options": [
+        {
+          "text": "Xe tải phanh gấp",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía sau bên trái áp sát vượt lên",
+          "is_correct": true
+        },
+        {
+          "text": "Xe phía trước ổn định tốc độ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Có tín hiệu xin đường",
+      "wrong_answers": [
+        "Đường có biển báo hạn chế tốc độ",
+        "Có xe đi sát bên trái"
+      ],
+      "all_options": [
+        {
+          "text": "Đường có biển báo hạn chế tốc độ",
+          "is_correct": false
+        },
+        {
+          "text": "Có xe đi sát bên trái",
+          "is_correct": false
+        },
+        {
+          "text": "Có tín hiệu xin đường",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, giữ khoảng cách an toàn và quan sát",
+      "wrong_answers": [
+        "Giữ nguyên tốc độ, bỏ qua tín hiệu xin đường",
+        "Chuyển sang làn dừng khẩn cấp bên phải để vượt lên nhanh hơn"
+      ],
+      "all_options": [
+        {
+          "text": "Giữ nguyên tốc độ, bỏ qua tín hiệu xin đường",
+          "is_correct": false
+        },
+        {
+          "text": "Chuyển sang làn dừng khẩn cấp bên phải để vượt lên nhanh hơn",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, giữ khoảng cách an toàn và quan sát",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

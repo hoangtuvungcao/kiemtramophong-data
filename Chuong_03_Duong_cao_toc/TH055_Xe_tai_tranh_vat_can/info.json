@@ -1,0 +1,117 @@
+{
+  "stt": 55,
+  "clip_id": 56,
+  "title": "Xe tải tránh vật cản",
+  "chapter": "Chương III - Giao thông trên đường cao tốc",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/55/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/56/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe tải tránh vật cản",
+      "wrong_answers": [
+        "Sương mù tiếp",
+        "Xe phía trước có dấu hiệu hỏng",
+        "Xe tải vượt"
+      ],
+      "all_options": [
+        {
+          "text": "Sương mù tiếp",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước có dấu hiệu hỏng",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải tránh vật cản",
+          "is_correct": true
+        },
+        {
+          "text": "Xe tải vượt",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Có vật cản trên đường",
+      "wrong_answers": [
+        "Xe phía trước di chuyển bất thường",
+        "Công trường kéo dài",
+        "Xe dừng"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước di chuyển bất thường",
+          "is_correct": false
+        },
+        {
+          "text": "Công trường kéo dài",
+          "is_correct": false
+        },
+        {
+          "text": "Có vật cản trên đường",
+          "is_correct": true
+        },
+        {
+          "text": "Xe dừng",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe tải đánh lái tránh",
+      "wrong_answers": [
+        "Xe con chuyển làn không bật tín hiệu",
+        "Xe phía trước phanh lại hoặc có người chuẩn bị sang đường",
+        "Đường xấu"
+      ],
+      "all_options": [
+        {
+          "text": "Xe con chuyển làn không bật tín hiệu",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước phanh lại hoặc có người chuẩn bị sang đường",
+          "is_correct": false
+        },
+        {
+          "text": "Đường xấu",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải đánh lái tránh",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, giữ khoảng cách an toàn",
+      "wrong_answers": [
+        "Tạo áp lực bằng cách bấm còi và nháy đèn ép xe tải nhường đường",
+        "Tăng tốc nhanh để vượt lên trước xe tải"
+      ],
+      "all_options": [
+        {
+          "text": "Tạo áp lực bằng cách bấm còi và nháy đèn ép xe tải nhường đường",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, giữ khoảng cách an toàn",
+          "is_correct": true
+        },
+        {
+          "text": "Tăng tốc nhanh để vượt lên trước xe tải",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

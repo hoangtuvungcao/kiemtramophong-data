@@ -1,0 +1,112 @@
+{
+  "stt": 2,
+  "clip_id": 3,
+  "title": "Người đi bộ qua dải phân cách",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/2/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/3/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Người đi bộ qua dải phân cách",
+      "wrong_answers": [
+        "Xe máy chuyển làn",
+        "Người đi bộ phía trước",
+        "Xe mở cửa trong khu đông"
+      ],
+      "all_options": [
+        {
+          "text": "Xe máy chuyển làn",
+          "is_correct": false
+        },
+        {
+          "text": "Người đi bộ phía trước",
+          "is_correct": false
+        },
+        {
+          "text": "Xe mở cửa trong khu đông",
+          "is_correct": false
+        },
+        {
+          "text": "Người đi bộ qua dải phân cách",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Khu vực có dải phân cách, thường có người băng qua không đúng nơi",
+      "wrong_answers": [
+        "Đường đô thị có nhiều xe dừng đỗ bên lề đường",
+        "Xe tải lớn phía trước che khuất hoàn toàn tầm nhìn bên phải"
+      ],
+      "all_options": [
+        {
+          "text": "Đường đô thị có nhiều xe dừng đỗ bên lề đường",
+          "is_correct": false
+        },
+        {
+          "text": "Khu vực có dải phân cách, thường có người băng qua không đúng nơi",
+          "is_correct": true
+        },
+        {
+          "text": "Xe tải lớn phía trước che khuất hoàn toàn tầm nhìn bên phải",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Người đi bộ bước xuống phần đường xe chạy",
+      "wrong_answers": [
+        "Xe đạp bắt đầu đi xuống lòng đường",
+        "Giao lộ phía trước, xe dừng đột ngột"
+      ],
+      "all_options": [
+        {
+          "text": "Xe đạp bắt đầu đi xuống lòng đường",
+          "is_correct": false
+        },
+        {
+          "text": "Người đi bộ bước xuống phần đường xe chạy",
+          "is_correct": true
+        },
+        {
+          "text": "Giao lộ phía trước, xe dừng đột ngột",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc từ sớm, quan sát hướng di chuyển của người đi bộ và dừng lại nếu họ tiếp tục sang đường",
+      "wrong_answers": [
+        "Bấm còi để người đi bộ dừng lại giữa dải phân cách rồi đi tiếp",
+        "Đánh lái lệch sang làn phải để vòng qua người đang băng qua đường",
+        "Tăng tốc vượt qua trước người đi bộ"
+      ],
+      "all_options": [
+        {
+          "text": "Bấm còi để người đi bộ dừng lại giữa dải phân cách rồi đi tiếp",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc từ sớm, quan sát hướng di chuyển của người đi bộ và dừng lại nếu họ tiếp tục sang đường",
+          "is_correct": true
+        },
+        {
+          "text": "Đánh lái lệch sang làn phải để vòng qua người đang băng qua đường",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc vượt qua trước người đi bộ",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "stt": 33,
+  "clip_id": 34,
+  "title": "Trẻ em chơi gần đường",
+  "chapter": "Chương II - Giao thông trên đường nông thôn",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/33/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/34/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Trẻ em chơi gần đường",
+      "wrong_answers": [
+        "Đường cong liên tiếp",
+        "Xe phía trước chở vật liệu rơi",
+        "Xe con từ đường nhánh đi ra"
+      ],
+      "all_options": [
+        {
+          "text": "Đường cong liên tiếp",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước chở vật liệu rơi",
+          "is_correct": false
+        },
+        {
+          "text": "Trẻ em chơi gần đường",
+          "is_correct": true
+        },
+        {
+          "text": "Xe con từ đường nhánh đi ra",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Có trẻ chơi ở lề đường",
+      "wrong_answers": [
+        "Khu vực nông thôn ít rào chắn",
+        "Khu vực gần trường học"
+      ],
+      "all_options": [
+        {
+          "text": "Khu vực nông thôn ít rào chắn",
+          "is_correct": false
+        },
+        {
+          "text": "Có trẻ chơi ở lề đường",
+          "is_correct": true
+        },
+        {
+          "text": "Khu vực gần trường học",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Trẻ chạy bất ngờ ra",
+      "wrong_answers": [
+        "Nháy đèn liên tục",
+        "Nhà sát mặt đường"
+      ],
+      "all_options": [
+        {
+          "text": "Nháy đèn liên tục",
+          "is_correct": false
+        },
+        {
+          "text": "Nhà sát mặt đường",
+          "is_correct": false
+        },
+        {
+          "text": "Trẻ chạy bất ngờ ra",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Đi rất chậm, giữ chân phanh để xử lý kịp",
+      "wrong_answers": [
+        "Giữ nguyên tốc độ vì trẻ đang ở lề chưa ra đường",
+        "Đánh lái sang làn bên cạnh để cách xa chỗ trẻ chơi",
+        "Bấm còi liên tục để trẻ biết có xe rồi đi tiếp"
+      ],
+      "all_options": [
+        {
+          "text": "Giữ nguyên tốc độ vì trẻ đang ở lề chưa ra đường",
+          "is_correct": false
+        },
+        {
+          "text": "Đánh lái sang làn bên cạnh để cách xa chỗ trẻ chơi",
+          "is_correct": false
+        },
+        {
+          "text": "Bấm còi liên tục để trẻ biết có xe rồi đi tiếp",
+          "is_correct": false
+        },
+        {
+          "text": "Đi rất chậm, giữ chân phanh để xử lý kịp",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "stt": 117,
+  "clip_id": 118,
+  "title": "Xe phía trước đi chậm bất thường",
+  "chapter": "Chương VI - Tình huống tai nạn giao thông thực tế",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/117/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/118/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe phía trước đi chậm bất thường",
+      "wrong_answers": [
+        "Sương mù tiếp",
+        "Xe phía trước đi chậm",
+        "Xe con sang đường"
+      ],
+      "all_options": [
+        {
+          "text": "Sương mù tiếp",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước đi chậm",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con sang đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước đi chậm bất thường",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Không rõ nguyên nhân",
+      "wrong_answers": [
+        "Xe buýt đi bên chiều ngược lại",
+        "Đường đông dân cư sinh sống sát đường"
+      ],
+      "all_options": [
+        {
+          "text": "Xe buýt đi bên chiều ngược lại",
+          "is_correct": false
+        },
+        {
+          "text": "Đường đông dân cư sinh sống sát đường",
+          "is_correct": false
+        },
+        {
+          "text": "Không rõ nguyên nhân",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe giảm tốc",
+      "wrong_answers": [
+        "Phía trước có giao lộ",
+        "Xe buýt có dấu hiệu lấn làn"
+      ],
+      "all_options": [
+        {
+          "text": "Phía trước có giao lộ",
+          "is_correct": false
+        },
+        {
+          "text": "Xe giảm tốc",
+          "is_correct": true
+        },
+        {
+          "text": "Xe buýt có dấu hiệu lấn làn",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, giữ khoảng cách an toàn",
+      "wrong_answers": [
+        "Bấm còi liên tục để xe trước đi nhanh hơn",
+        "Áp sát ép xe trước phải tăng tốc",
+        "Giữ nguyên tốc độ đâm sát đuôi xe trước"
+      ],
+      "all_options": [
+        {
+          "text": "Bấm còi liên tục để xe trước đi nhanh hơn",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, giữ khoảng cách an toàn",
+          "is_correct": true
+        },
+        {
+          "text": "Áp sát ép xe trước phải tăng tốc",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ đâm sát đuôi xe trước",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

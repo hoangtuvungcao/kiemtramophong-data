@@ -1,0 +1,107 @@
+{
+  "stt": 104,
+  "clip_id": 105,
+  "title": "Xe phía trước có người xuống xe",
+  "chapter": "Chương VI - Tình huống tai nạn giao thông thực tế",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/104/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/105/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Lái xe có nồng độ cồn",
+      "wrong_answers": [
+        "Xe 16 chỗ vào làn",
+        "Xe tải cắt đầu",
+        "Xe container quay đầu"
+      ],
+      "all_options": [
+        {
+          "text": "Xe 16 chỗ vào làn",
+          "is_correct": false
+        },
+        {
+          "text": "Lái xe có nồng độ cồn",
+          "is_correct": true
+        },
+        {
+          "text": "Xe tải cắt đầu",
+          "is_correct": false
+        },
+        {
+          "text": "Xe container quay đầu",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "đèn giao thông đang màu đỏ",
+      "wrong_answers": [
+        "Có xe đỗ sát lề phải",
+        "Xe phía trước chạy không ổn định, có xu hướng tăng tốc"
+      ],
+      "all_options": [
+        {
+          "text": "đèn giao thông đang màu đỏ",
+          "is_correct": true
+        },
+        {
+          "text": "Có xe đỗ sát lề phải",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước chạy không ổn định, có xu hướng tăng tốc",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe dừng phía trước",
+      "wrong_answers": [
+        "Xe đối diện lao nhanh",
+        "Đèn lùi bật và xe bắt đầu di chuyển ngược"
+      ],
+      "all_options": [
+        {
+          "text": "Xe dừng phía trước",
+          "is_correct": true
+        },
+        {
+          "text": "Xe đối diện lao nhanh",
+          "is_correct": false
+        },
+        {
+          "text": "Đèn lùi bật và xe bắt đầu di chuyển ngược",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Dừng xe nghỉ ngơi",
+      "wrong_answers": [
+        "Tăng tốc chạy nhanh hơn để về nhà sớm",
+        "Bấm còi để xe phía trước đi nhanh"
+      ],
+      "all_options": [
+        {
+          "text": "Dừng xe nghỉ ngơi",
+          "is_correct": true
+        },
+        {
+          "text": "Tăng tốc chạy nhanh hơn để về nhà sớm",
+          "is_correct": false
+        },
+        {
+          "text": "Bấm còi để xe phía trước đi nhanh",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

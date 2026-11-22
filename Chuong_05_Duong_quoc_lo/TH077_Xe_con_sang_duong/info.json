@@ -1,0 +1,122 @@
+{
+  "stt": 77,
+  "clip_id": 78,
+  "title": "Xe con sang đường",
+  "chapter": "Chương V - Giao thông trên đường quốc lộ",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/77/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/78/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe con xuất hiện từ bên phải",
+      "wrong_answers": [
+        "Xe 16 chỗ chuyển làn",
+        "Xe phía trước vào khu dân cư",
+        "Xe con từ đường nhánh đi ra"
+      ],
+      "all_options": [
+        {
+          "text": "Xe 16 chỗ chuyển làn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước vào khu dân cư",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con từ đường nhánh đi ra",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con xuất hiện từ bên phải",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Nơi đường có dãy phân cách không liên tục, tầm nhìn hạn chế",
+      "wrong_answers": [
+        "Xe tải che khuất tầm nhìn",
+        "Có xe đỗ sát lề phải",
+        "Xe buýt đang dừng tại điểm đón trả khách"
+      ],
+      "all_options": [
+        {
+          "text": "Xe tải che khuất tầm nhìn",
+          "is_correct": false
+        },
+        {
+          "text": "Có xe đỗ sát lề phải",
+          "is_correct": false
+        },
+        {
+          "text": "Xe buýt đang dừng tại điểm đón trả khách",
+          "is_correct": false
+        },
+        {
+          "text": "Nơi đường có dãy phân cách không liên tục, tầm nhìn hạn chế",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe cắt ngang bất ngờ",
+      "wrong_answers": [
+        "Xe  di chuyển ngược",
+        "Xe khách đánh lái sang làn khác",
+        "Xe bật tín hiệu cảnh báo"
+      ],
+      "all_options": [
+        {
+          "text": "Xe  di chuyển ngược",
+          "is_correct": false
+        },
+        {
+          "text": "Xe khách đánh lái sang làn khác",
+          "is_correct": false
+        },
+        {
+          "text": "Xe cắt ngang bất ngờ",
+          "is_correct": true
+        },
+        {
+          "text": "Xe bật tín hiệu cảnh báo",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc độ, nhường đường",
+      "wrong_answers": [
+        "Giữ nguyên tốc độ vì xe con phải nhường",
+        "Tăng tốc vượt qua, trước khi xe con băng hết",
+        "Bấm còi liên tục, buột xe con phải dừng"
+      ],
+      "all_options": [
+        {
+          "text": "Giảm tốc độ, nhường đường",
+          "is_correct": true
+        },
+        {
+          "text": "Giữ nguyên tốc độ vì xe con phải nhường",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc vượt qua, trước khi xe con băng hết",
+          "is_correct": false
+        },
+        {
+          "text": "Bấm còi liên tục, buột xe con phải dừng",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "stt": 40,
+  "clip_id": 41,
+  "title": "Xe máy xuất hiện sau xe tải",
+  "chapter": "Chương II - Giao thông trên đường nông thôn",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/40/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/41/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe máy xuất hiện sau xe tải",
+      "wrong_answers": [
+        "Xe máy từ ngõ đi ra",
+        "Người đi bộ qua dải phân cách",
+        "Xe phía trước chuyển làn không tín hiệu"
+      ],
+      "all_options": [
+        {
+          "text": "Xe máy từ ngõ đi ra",
+          "is_correct": false
+        },
+        {
+          "text": "Xe máy xuất hiện sau xe tải",
+          "is_correct": true
+        },
+        {
+          "text": "Người đi bộ qua dải phân cách",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước chuyển làn không tín hiệu",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe tải che khuất tầm nhìn bên trái",
+      "wrong_answers": [
+        "Phía trước bên trái đường có vật cản",
+        "Có đàn vật nuôi gần đường"
+      ],
+      "all_options": [
+        {
+          "text": "Phía trước bên trái đường có vật cản",
+          "is_correct": false
+        },
+        {
+          "text": "Có đàn vật nuôi gần đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải che khuất tầm nhìn bên trái",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe máy bất ngờ xuất hiện từ phía sau xe tải",
+      "wrong_answers": [
+        "Xe máy đi cùng chiều phía trước say rượu đi không ổn định",
+        "Xe rẽ phải gặp vật cản"
+      ],
+      "all_options": [
+        {
+          "text": "Xe máy đi cùng chiều phía trước say rượu đi không ổn định",
+          "is_correct": false
+        },
+        {
+          "text": "Xe máy bất ngờ xuất hiện từ phía sau xe tải",
+          "is_correct": true
+        },
+        {
+          "text": "Xe rẽ phải gặp vật cản",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Rà phanh trước khi vượt xe tải, giữ khoảng cách an toàn",
+      "wrong_answers": [
+        "Bám sát xe tải rồi vượt lên cùng để qua nhanh",
+        "Đánh lái gấp sang trái vượt xe tải ngay",
+        "Giữ nguyên tốc độ vì xe máy sau xe tải phải tự giữ khoảng cách"
+      ],
+      "all_options": [
+        {
+          "text": "Bám sát xe tải rồi vượt lên cùng để qua nhanh",
+          "is_correct": false
+        },
+        {
+          "text": "Rà phanh trước khi vượt xe tải, giữ khoảng cách an toàn",
+          "is_correct": true
+        },
+        {
+          "text": "Đánh lái gấp sang trái vượt xe tải ngay",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ vì xe máy sau xe tải phải tự giữ khoảng cách",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

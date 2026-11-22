@@ -1,0 +1,117 @@
+{
+  "stt": 36,
+  "clip_id": 37,
+  "title": "Xe máy từ ngõ đi ra",
+  "chapter": "Chương II - Giao thông trên đường nông thôn",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/36/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/37/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe máy từ ngõ đi ra",
+      "wrong_answers": [
+        "Xe phía trước qua đường trơn",
+        "Xe môi trường dừng",
+        "Xe phía trước chở vật liệu rơi"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước qua đường trơn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe môi trường dừng",
+          "is_correct": false
+        },
+        {
+          "text": "Xe máy từ ngõ đi ra",
+          "is_correct": true
+        },
+        {
+          "text": "Xe phía trước chở vật liệu rơi",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Có nhiều ngõ nhỏ",
+      "wrong_answers": [
+        "Đường nhập làn",
+        "Xe đi sát lề phải"
+      ],
+      "all_options": [
+        {
+          "text": "Đường nhập làn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đi sát lề phải",
+          "is_correct": false
+        },
+        {
+          "text": "Có nhiều ngõ nhỏ",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe máy lao ra nhanh",
+      "wrong_answers": [
+        "Dân cư đông sinh sống sát đường",
+        "Khó quan sát xa",
+        "Xe máy phí trước rẽ phải"
+      ],
+      "all_options": [
+        {
+          "text": "Dân cư đông sinh sống sát đường",
+          "is_correct": false
+        },
+        {
+          "text": "Khó quan sát xa",
+          "is_correct": false
+        },
+        {
+          "text": "Xe máy lao ra nhanh",
+          "is_correct": true
+        },
+        {
+          "text": "Xe máy phí trước rẽ phải",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Quan sát hai bên liên tục và giảm tốc từ trước",
+      "wrong_answers": [
+        "Tăng tốc qua nhanh các ngõ để tránh xe máy lao ra",
+        "Giữ nguyên tốc độ vì xe máy từ ngõ phải nhường",
+        "Đánh lái ra giữa đường để cách xa các ngõ"
+      ],
+      "all_options": [
+        {
+          "text": "Tăng tốc qua nhanh các ngõ để tránh xe máy lao ra",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ vì xe máy từ ngõ phải nhường",
+          "is_correct": false
+        },
+        {
+          "text": "Quan sát hai bên liên tục và giảm tốc từ trước",
+          "is_correct": true
+        },
+        {
+          "text": "Đánh lái ra giữa đường để cách xa các ngõ",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "stt": 43,
+  "clip_id": 44,
+  "title": "Xe tải tránh thi công",
+  "chapter": "Chương II - Giao thông trên đường nông thôn",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/43/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/44/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe tải tránh thi công",
+      "wrong_answers": [
+        "Xe phía trước đi vào đường hẹp",
+        "Đường đèo núi",
+        "Xe buýt dừng phía trước"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước đi vào đường hẹp",
+          "is_correct": false
+        },
+        {
+          "text": "Đường đèo núi",
+          "is_correct": false
+        },
+        {
+          "text": "Xe buýt dừng phía trước",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải tránh thi công",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Khu vực có biển báo công trường",
+      "wrong_answers": [
+        "Xe chạy không ổn định, có xu hướng chậm lại",
+        "Xe con phía sau tăng tốc bất thường"
+      ],
+      "all_options": [
+        {
+          "text": "Khu vực có biển báo công trường",
+          "is_correct": true
+        },
+        {
+          "text": "Xe chạy không ổn định, có xu hướng chậm lại",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con phía sau tăng tốc bất thường",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe tải chuyển hướng tránh vật cản",
+      "wrong_answers": [
+        "Xe con phanh gấp",
+        "Xuất hiện vật cản hoặc công nhân làm việc"
+      ],
+      "all_options": [
+        {
+          "text": "Xe con phanh gấp",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải chuyển hướng tránh vật cản",
+          "is_correct": true
+        },
+        {
+          "text": "Xuất hiện vật cản hoặc công nhân làm việc",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, giữ khoảng cách an toàn và quan sát",
+      "wrong_answers": [
+        "Chuyển sang làn bên phải để được đi nhanh hơn",
+        "Bấm còi để xe tải dừng lại nhường đường",
+        "Tạo áp lực bằng cách bấm còi và nháy đèn để xe con phía trước tăng tốc đi nhanh"
+      ],
+      "all_options": [
+        {
+          "text": "Chuyển sang làn bên phải để được đi nhanh hơn",
+          "is_correct": false
+        },
+        {
+          "text": "Bấm còi để xe tải dừng lại nhường đường",
+          "is_correct": false
+        },
+        {
+          "text": "Tạo áp lực bằng cách bấm còi và nháy đèn để xe con phía trước tăng tốc đi nhanh",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, giữ khoảng cách an toàn và quan sát",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

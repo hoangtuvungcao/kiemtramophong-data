@@ -1,0 +1,122 @@
+{
+  "stt": 63,
+  "clip_id": 64,
+  "title": "Bò qua đường",
+  "chapter": "Chương III - Giao thông trên đường cao tốc",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/63/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/64/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Bò đi qua đường cao tốc",
+      "wrong_answers": [
+        "Xe phía trước giảm tốc độ",
+        "Xe con rẽ trái nhanh",
+        "Xe phía trước chạy tốc độ cao"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước giảm tốc độ",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con rẽ trái nhanh",
+          "is_correct": false
+        },
+        {
+          "text": "Bò đi qua đường cao tốc",
+          "is_correct": true
+        },
+        {
+          "text": "Xe phía trước chạy tốc độ cao",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Khu vực nông thôn vào buổi chiều",
+      "wrong_answers": [
+        "Xe lớn ở đường bên",
+        "Đường nhỏ lại",
+        "Xuất hiện giao lộ hoặc đường nhánh nhỏ bên phải"
+      ],
+      "all_options": [
+        {
+          "text": "Khu vực nông thôn vào buổi chiều",
+          "is_correct": true
+        },
+        {
+          "text": "Xe lớn ở đường bên",
+          "is_correct": false
+        },
+        {
+          "text": "Đường nhỏ lại",
+          "is_correct": false
+        },
+        {
+          "text": "Xuất hiện giao lộ hoặc đường nhánh nhỏ bên phải",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Bò di chuyển qua đường",
+      "wrong_answers": [
+        "Xe đi ra",
+        "Người đi bộ cắt ngang đường",
+        "Xe chuyển làn"
+      ],
+      "all_options": [
+        {
+          "text": "Xe đi ra",
+          "is_correct": false
+        },
+        {
+          "text": "Bò di chuyển qua đường",
+          "is_correct": true
+        },
+        {
+          "text": "Người đi bộ cắt ngang đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe chuyển làn",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc độ, bật đèn khẩn cấp, giữ khoảng cách an toàn",
+      "wrong_answers": [
+        "Giữ nguyên tốc độ vì bò sẽ tự tránh xe",
+        "Bấm còi mạnh để bò băng qua nhanh hơn",
+        "Chuyển nhanh sang làn trái để tránh bò"
+      ],
+      "all_options": [
+        {
+          "text": "Giữ nguyên tốc độ vì bò sẽ tự tránh xe",
+          "is_correct": false
+        },
+        {
+          "text": "Bấm còi mạnh để bò băng qua nhanh hơn",
+          "is_correct": false
+        },
+        {
+          "text": "Chuyển nhanh sang làn trái để tránh bò",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc độ, bật đèn khẩn cấp, giữ khoảng cách an toàn",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

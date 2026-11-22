@@ -1,0 +1,117 @@
+{
+  "stt": 5,
+  "clip_id": 6,
+  "title": "Xe máy chuyển làn",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/5/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/6/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe máy chuyển làn",
+      "wrong_answers": [
+        "Xe phía trước có người xuống xe",
+        "Xe phía trước lùi",
+        "Xe con vượt ẩu"
+      ],
+      "all_options": [
+        {
+          "text": "Xe phía trước có người xuống xe",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước lùi",
+          "is_correct": false
+        },
+        {
+          "text": "Xe máy chuyển làn",
+          "is_correct": true
+        },
+        {
+          "text": "Xe con vượt ẩu",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe máy đi sát vạch phân làn, không giữ hướng ổn định",
+      "wrong_answers": [
+        "Mặt đường xấu, lồi lõm",
+        "Xe đỏ đối diện có dấu hiệu lấn làn"
+      ],
+      "all_options": [
+        {
+          "text": "Mặt đường xấu, lồi lõm",
+          "is_correct": false
+        },
+        {
+          "text": "Xe máy đi sát vạch phân làn, không giữ hướng ổn định",
+          "is_correct": true
+        },
+        {
+          "text": "Xe đỏ đối diện có dấu hiệu lấn làn",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe máy bất ngờ đánh lái sang làn của bạn",
+      "wrong_answers": [
+        "Có người đi bộ qua đường",
+        "Người đi bộ bước xuống phần đường xe chạy",
+        "Tầm nhìn bị khuất"
+      ],
+      "all_options": [
+        {
+          "text": "Có người đi bộ qua đường",
+          "is_correct": false
+        },
+        {
+          "text": "Người đi bộ bước xuống phần đường xe chạy",
+          "is_correct": false
+        },
+        {
+          "text": "Xe máy bất ngờ đánh lái sang làn của bạn",
+          "is_correct": true
+        },
+        {
+          "text": "Tầm nhìn bị khuất",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Chủ động giảm tốc, giữ khoảng cách lệch sang phía an toàn để tránh va chạm",
+      "wrong_answers": [
+        "Giữ nguyên tốc độ và hướng lái vì xe máy phải tự giữ làn",
+        "Tăng tốc vượt lên trước khi xe máy kịp lấn hẳn sang làn",
+        "Đánh lái gấp sang làn bên cạnh để né xe máy"
+      ],
+      "all_options": [
+        {
+          "text": "Giữ nguyên tốc độ và hướng lái vì xe máy phải tự giữ làn",
+          "is_correct": false
+        },
+        {
+          "text": "Chủ động giảm tốc, giữ khoảng cách lệch sang phía an toàn để tránh va chạm",
+          "is_correct": true
+        },
+        {
+          "text": "Tăng tốc vượt lên trước khi xe máy kịp lấn hẳn sang làn",
+          "is_correct": false
+        },
+        {
+          "text": "Đánh lái gấp sang làn bên cạnh để né xe máy",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

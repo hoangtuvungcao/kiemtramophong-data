@@ -1,0 +1,122 @@
+{
+  "stt": 7,
+  "clip_id": 8,
+  "title": "Người đi bộ phía trước",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/7/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/8/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Người đi bộ phía trước",
+      "wrong_answers": [
+        "Xe con từ đường nhánh đi ra",
+        "Xe mở cửa ven đường",
+        "Xe phía trước chuyển hướng liên tục"
+      ],
+      "all_options": [
+        {
+          "text": "Xe con từ đường nhánh đi ra",
+          "is_correct": false
+        },
+        {
+          "text": "Xe mở cửa ven đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước chuyển hướng liên tục",
+          "is_correct": false
+        },
+        {
+          "text": "Người đi bộ phía trước",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Khu vực đông dân cư, gần vạch qua đường",
+      "wrong_answers": [
+        "Xe buýt phía sau tăng tốc, áp sát",
+        "Khu vực nông thôn ít rào chắn",
+        "Xe chở hàng rời"
+      ],
+      "all_options": [
+        {
+          "text": "Khu vực đông dân cư, gần vạch qua đường",
+          "is_correct": true
+        },
+        {
+          "text": "Xe buýt phía sau tăng tốc, áp sát",
+          "is_correct": false
+        },
+        {
+          "text": "Khu vực nông thôn ít rào chắn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe chở hàng rời",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe phía trước phanh lại hoặc có người chuẩn bị sang đường",
+      "wrong_answers": [
+        "Xe đánh lái nhiều lần",
+        "Xe tải lấn làn để vượt",
+        "Xe đối diện lấn sang phần đường của bạn"
+      ],
+      "all_options": [
+        {
+          "text": "Xe đánh lái nhiều lần",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải lấn làn để vượt",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước phanh lại hoặc có người chuẩn bị sang đường",
+          "is_correct": true
+        },
+        {
+          "text": "Xe đối diện lấn sang phần đường của bạn",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Hạ tốc độ, giữ khoảng cách và chuẩn bị dừng hẳn nếu người đi bộ bước ra",
+      "wrong_answers": [
+        "Tăng tốc vượt qua trước khi người đi bộ qua đường",
+        "Bấm còi dài để người đi bộ đứng lại chờ xe qua",
+        "Vượt xe phía trước đang phanh bằng cách lấn sang làn đối diện"
+      ],
+      "all_options": [
+        {
+          "text": "Tăng tốc vượt qua trước khi người đi bộ qua đường",
+          "is_correct": false
+        },
+        {
+          "text": "Hạ tốc độ, giữ khoảng cách và chuẩn bị dừng hẳn nếu người đi bộ bước ra",
+          "is_correct": true
+        },
+        {
+          "text": "Bấm còi dài để người đi bộ đứng lại chờ xe qua",
+          "is_correct": false
+        },
+        {
+          "text": "Vượt xe phía trước đang phanh bằng cách lấn sang làn đối diện",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

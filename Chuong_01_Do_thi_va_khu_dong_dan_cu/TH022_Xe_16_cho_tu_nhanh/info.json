@@ -1,0 +1,117 @@
+{
+  "stt": 22,
+  "clip_id": 23,
+  "title": "Xe 16 chỗ từ nhánh",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/22/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/23/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe 16 chỗ từ nhánh",
+      "wrong_answers": [
+        "Xe con vượt ẩu",
+        "Xe phía trước phanh liên tục",
+        "Xe phía trước quay đầu"
+      ],
+      "all_options": [
+        {
+          "text": "Xe con vượt ẩu",
+          "is_correct": false
+        },
+        {
+          "text": "Xe 16 chỗ từ nhánh",
+          "is_correct": true
+        },
+        {
+          "text": "Xe phía trước phanh liên tục",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước quay đầu",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Có xe lớn chờ tại giao lộ",
+      "wrong_answers": [
+        "Ánh sáng yếu",
+        "Tầm nhìn bị hạn chế",
+        "Có xe lớn che khuất tầm nhìn phía trước"
+      ],
+      "all_options": [
+        {
+          "text": "Có xe lớn chờ tại giao lộ",
+          "is_correct": true
+        },
+        {
+          "text": "Ánh sáng yếu",
+          "is_correct": false
+        },
+        {
+          "text": "Tầm nhìn bị hạn chế",
+          "is_correct": false
+        },
+        {
+          "text": "Có xe lớn che khuất tầm nhìn phía trước",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe bắt đầu tiến ra cắt ngang đầu xe của bạn",
+      "wrong_answers": [
+        "Xe con tiến tới và có thể cắt ngang đầu xe bạn",
+        "Giao lộ không có đèn điều khiển giao thông"
+      ],
+      "all_options": [
+        {
+          "text": "Xe bắt đầu tiến ra cắt ngang đầu xe của bạn",
+          "is_correct": true
+        },
+        {
+          "text": "Xe con tiến tới và có thể cắt ngang đầu xe bạn",
+          "is_correct": false
+        },
+        {
+          "text": "Giao lộ không có đèn điều khiển giao thông",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc sớm vì xe lớn khó quan sát, sẵn sàng nhường",
+      "wrong_answers": [
+        "Bấm còi liên tục để xe 16 chỗ dừng lại nhường",
+        "Tăng tốc vượt trước khi xe 16 chỗ ra hết",
+        "Giữ nguyên tốc độ vì xe từ nhánh phải nhường đường chính"
+      ],
+      "all_options": [
+        {
+          "text": "Bấm còi liên tục để xe 16 chỗ dừng lại nhường",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc sớm vì xe lớn khó quan sát, sẵn sàng nhường",
+          "is_correct": true
+        },
+        {
+          "text": "Tăng tốc vượt trước khi xe 16 chỗ ra hết",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ vì xe từ nhánh phải nhường đường chính",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

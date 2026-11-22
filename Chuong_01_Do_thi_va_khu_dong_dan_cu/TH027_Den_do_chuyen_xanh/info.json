@@ -1,0 +1,117 @@
+{
+  "stt": 27,
+  "clip_id": 28,
+  "title": "Đèn đỏ chuyển xanh",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/27/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/28/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Đèn đỏ chuyển xanh",
+      "wrong_answers": [
+        "Xe từ nhánh trái đi ra",
+        "Xe mở cửa trong khu đông",
+        "Xe phía trước giảm tốc bất thường"
+      ],
+      "all_options": [
+        {
+          "text": "Xe từ nhánh trái đi ra",
+          "is_correct": false
+        },
+        {
+          "text": "Xe mở cửa trong khu đông",
+          "is_correct": false
+        },
+        {
+          "text": "Đèn đỏ chuyển xanh",
+          "is_correct": true
+        },
+        {
+          "text": "Xe phía trước giảm tốc bất thường",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe đang dừng tại giao lộ",
+      "wrong_answers": [
+        "Phía trước có vạch dành cho người đi bộ",
+        "Xe con vượt ngay giao lộ"
+      ],
+      "all_options": [
+        {
+          "text": "Phía trước có vạch dành cho người đi bộ",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đang dừng tại giao lộ",
+          "is_correct": true
+        },
+        {
+          "text": "Xe con vượt ngay giao lộ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Đèn tín hiệu chuyển sang xanh",
+      "wrong_answers": [
+        "Người đi bộ bước xuống phần đường xe chạy",
+        "Xe giảm tốc",
+        "Đèn phanh bật nhiều lần"
+      ],
+      "all_options": [
+        {
+          "text": "Người đi bộ bước xuống phần đường xe chạy",
+          "is_correct": false
+        },
+        {
+          "text": "Xe giảm tốc",
+          "is_correct": false
+        },
+        {
+          "text": "Đèn phanh bật nhiều lần",
+          "is_correct": false
+        },
+        {
+          "text": "Đèn tín hiệu chuyển sang xanh",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Không đi ngay, quan sát hai bên rồi mới tăng tốc theo đúng quy định",
+      "wrong_answers": [
+        "Nhấn ga hết cỡ để qua nhanh giao lộ",
+        "Tăng tốc đi ngay khi đèn vừa bật xanh để qua trước các xe khác",
+        "Đi ngay lập tức vì đã đúng tín hiệu, không cần nhìn hai bên"
+      ],
+      "all_options": [
+        {
+          "text": "Nhấn ga hết cỡ để qua nhanh giao lộ",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc đi ngay khi đèn vừa bật xanh để qua trước các xe khác",
+          "is_correct": false
+        },
+        {
+          "text": "Đi ngay lập tức vì đã đúng tín hiệu, không cần nhìn hai bên",
+          "is_correct": false
+        },
+        {
+          "text": "Không đi ngay, quan sát hai bên rồi mới tăng tốc theo đúng quy định",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

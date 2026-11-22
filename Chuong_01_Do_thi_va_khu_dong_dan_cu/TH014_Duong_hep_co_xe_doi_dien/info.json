@@ -1,0 +1,122 @@
+{
+  "stt": 14,
+  "clip_id": 15,
+  "title": "Đường hẹp có xe đối diện",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/14/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/15/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Đường hẹp có xe đối diện",
+      "wrong_answers": [
+        "Người đi bộ phía trước",
+        "Xe buýt vượt",
+        "Xe mở cửa phía ngược chiều"
+      ],
+      "all_options": [
+        {
+          "text": "Người đi bộ phía trước",
+          "is_correct": false
+        },
+        {
+          "text": "Xe buýt vượt",
+          "is_correct": false
+        },
+        {
+          "text": "Đường hẹp có xe đối diện",
+          "is_correct": true
+        },
+        {
+          "text": "Xe mở cửa phía ngược chiều",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Đường hẹp, không đủ cho 2 xe tránh nhau dễ dàng",
+      "wrong_answers": [
+        "Khu vực đông dân cư, gần vạch qua đường",
+        "Có người đi xe đạp gần mép đường",
+        "Xuất hiện giao lộ hoặc đường nhánh nhỏ bên phải"
+      ],
+      "all_options": [
+        {
+          "text": "Khu vực đông dân cư, gần vạch qua đường",
+          "is_correct": false
+        },
+        {
+          "text": "Có người đi xe đạp gần mép đường",
+          "is_correct": false
+        },
+        {
+          "text": "Đường hẹp, không đủ cho 2 xe tránh nhau dễ dàng",
+          "is_correct": true
+        },
+        {
+          "text": "Xuất hiện giao lộ hoặc đường nhánh nhỏ bên phải",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe đối diện tiến vào đoạn hẹp cùng lúc",
+      "wrong_answers": [
+        "Có xe đỗ sát lề phải",
+        "Xe máy bất ngờ đánh lái sang làn của bạn",
+        "Xe quay đầu đột ngột"
+      ],
+      "all_options": [
+        {
+          "text": "Có xe đỗ sát lề phải",
+          "is_correct": false
+        },
+        {
+          "text": "Xe máy bất ngờ đánh lái sang làn của bạn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe quay đầu đột ngột",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đối diện tiến vào đoạn hẹp cùng lúc",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc về mức an toàn, chủ động nhường nếu cần để tránh xung đột",
+      "wrong_answers": [
+        "Bấm còi để xe đối diện lùi lại nhường đường cho mình",
+        "Giữ nguyên tốc độ vì mình vào đoạn hẹp trước nên xe kia phải nhường",
+        "Tăng tốc đi qua đoạn hẹp trước xe đối diện"
+      ],
+      "all_options": [
+        {
+          "text": "Giảm tốc về mức an toàn, chủ động nhường nếu cần để tránh xung đột",
+          "is_correct": true
+        },
+        {
+          "text": "Bấm còi để xe đối diện lùi lại nhường đường cho mình",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ vì mình vào đoạn hẹp trước nên xe kia phải nhường",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc đi qua đoạn hẹp trước xe đối diện",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

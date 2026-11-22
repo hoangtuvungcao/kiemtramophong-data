@@ -1,0 +1,117 @@
+{
+  "stt": 47,
+  "clip_id": 48,
+  "title": "Xe cứu thương",
+  "chapter": "Chương III - Giao thông trên đường cao tốc",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/47/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/48/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe cứu thương",
+      "wrong_answers": [
+        "Xe tải dừng che khuất",
+        "Xe phía trước vượt đèn vàng",
+        "Xe tải chuyển làn"
+      ],
+      "all_options": [
+        {
+          "text": "Xe tải dừng che khuất",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước vượt đèn vàng",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải chuyển làn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe cứu thương",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Nghe thấy tín hiệu còi ưu tiên",
+      "wrong_answers": [
+        "Khu vực có biển báo công trường",
+        "Có biển cảnh báo, mặt đường bóng",
+        "Xe lớn ở phía trước bên cạnh"
+      ],
+      "all_options": [
+        {
+          "text": "Khu vực có biển báo công trường",
+          "is_correct": false
+        },
+        {
+          "text": "Nghe thấy tín hiệu còi ưu tiên",
+          "is_correct": true
+        },
+        {
+          "text": "Có biển cảnh báo, mặt đường bóng",
+          "is_correct": false
+        },
+        {
+          "text": "Xe lớn ở phía trước bên cạnh",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe cứu thương tiến đến gần",
+      "wrong_answers": [
+        "Xe phía trước phanh lại",
+        "Xe chuyển sang làn khác"
+      ],
+      "all_options": [
+        {
+          "text": "Xe cứu thương tiến đến gần",
+          "is_correct": true
+        },
+        {
+          "text": "Xe phía trước phanh lại",
+          "is_correct": false
+        },
+        {
+          "text": "Xe chuyển sang làn khác",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, bật tín hiệu cảnh báo và nhường đường theo quy định",
+      "wrong_answers": [
+        "Phanh dừng ngay giữa đường để nhường",
+        "Bấm còi đáp lại để xe cứu thương biết vị trí mình",
+        "Tăng tốc để đi trước xe cứu thương cho khỏi cản"
+      ],
+      "all_options": [
+        {
+          "text": "Phanh dừng ngay giữa đường để nhường",
+          "is_correct": false
+        },
+        {
+          "text": "Bấm còi đáp lại để xe cứu thương biết vị trí mình",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, bật tín hiệu cảnh báo và nhường đường theo quy định",
+          "is_correct": true
+        },
+        {
+          "text": "Tăng tốc để đi trước xe cứu thương cho khỏi cản",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "stt": 34,
+  "clip_id": 35,
+  "title": "Xe khách vượt",
+  "chapter": "Chương II - Giao thông trên đường nông thôn",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/34/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/35/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe khách vượt",
+      "wrong_answers": [
+        "Xe đạp từ đường nhánh",
+        "Xe phía trước đi ban đêm",
+        "Người đi bộ bất ngờ sang đường"
+      ],
+      "all_options": [
+        {
+          "text": "Xe đạp từ đường nhánh",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước đi ban đêm",
+          "is_correct": false
+        },
+        {
+          "text": "Người đi bộ bất ngờ sang đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe khách vượt",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe khách phía sau tăng tốc",
+      "wrong_answers": [
+        "Cảnh báo đường sạt lở gây nguy hiểm",
+        "Gặp biển cảnh báo đường cong nguy hiểm"
+      ],
+      "all_options": [
+        {
+          "text": "Cảnh báo đường sạt lở gây nguy hiểm",
+          "is_correct": false
+        },
+        {
+          "text": "Xe khách phía sau tăng tốc",
+          "is_correct": true
+        },
+        {
+          "text": "Gặp biển cảnh báo đường cong nguy hiểm",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe khách lấn làn để vượt",
+      "wrong_answers": [
+        "Xe đánh lái tránh",
+        "Xe giữ tốc độ thấp",
+        "Không thấy phía trước"
+      ],
+      "all_options": [
+        {
+          "text": "Xe đánh lái tránh",
+          "is_correct": false
+        },
+        {
+          "text": "Xe giữ tốc độ thấp",
+          "is_correct": false
+        },
+        {
+          "text": "Xe khách lấn làn để vượt",
+          "is_correct": true
+        },
+        {
+          "text": "Không thấy phía trước",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc nhẹ, giữ ổn định để họ vượt an toàn",
+      "wrong_answers": [
+        "Giữ nguyên tốc độ vì xe khách lấn làn vượt là sai",
+        "Đánh lái sang phải rồi phanh dừng cho xe khách vượt",
+        "Tăng tốc không cho xe khách vượt lên"
+      ],
+      "all_options": [
+        {
+          "text": "Giữ nguyên tốc độ vì xe khách lấn làn vượt là sai",
+          "is_correct": false
+        },
+        {
+          "text": "Đánh lái sang phải rồi phanh dừng cho xe khách vượt",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc không cho xe khách vượt lên",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc nhẹ, giữ ổn định để họ vượt an toàn",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}

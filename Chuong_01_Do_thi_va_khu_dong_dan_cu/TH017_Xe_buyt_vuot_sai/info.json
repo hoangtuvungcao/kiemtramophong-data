@@ -1,0 +1,112 @@
+{
+  "stt": 17,
+  "clip_id": 18,
+  "title": "Xe buýt vượt sai",
+  "chapter": "Chương I - Giao thông trong đô thị, khu đông dân cư",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/17/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/18/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe buýt vượt sai",
+      "wrong_answers": [
+        "Xe tải tránh vật cản",
+        "Xe phía trước quay đầu",
+        "Xe con từ đường nhánh đi ra"
+      ],
+      "all_options": [
+        {
+          "text": "Xe tải tránh vật cản",
+          "is_correct": false
+        },
+        {
+          "text": "Xe buýt vượt sai",
+          "is_correct": true
+        },
+        {
+          "text": "Xe phía trước quay đầu",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con từ đường nhánh đi ra",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe buýt phía sau tăng tốc bất thường",
+      "wrong_answers": [
+        "Có người đi bộ sang đường",
+        "Xe máy vượt đèn đỏ"
+      ],
+      "all_options": [
+        {
+          "text": "Xe buýt phía sau tăng tốc bất thường",
+          "is_correct": true
+        },
+        {
+          "text": "Có người đi bộ sang đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe máy vượt đèn đỏ",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe buýt lấn làn vượt trong điều kiện không an toàn",
+      "wrong_answers": [
+        "Người đi bộ đang băng qua đường",
+        "Xe giảm tốc"
+      ],
+      "all_options": [
+        {
+          "text": "Người đi bộ đang băng qua đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe buýt lấn làn vượt trong điều kiện không an toàn",
+          "is_correct": true
+        },
+        {
+          "text": "Xe giảm tốc",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc để tránh đối đầu, giữ hướng xe ổn định",
+      "wrong_answers": [
+        "Giữ nguyên tốc độ và hướng vì xe buýt vượt sai không phải lỗi của mình",
+        "Đánh lái sang phải nhường hẳn rồi tăng tốc nhanh",
+        "Tăng tốc không cho xe buýt vượt sai"
+      ],
+      "all_options": [
+        {
+          "text": "Giảm tốc để tránh đối đầu, giữ hướng xe ổn định",
+          "is_correct": true
+        },
+        {
+          "text": "Giữ nguyên tốc độ và hướng vì xe buýt vượt sai không phải lỗi của mình",
+          "is_correct": false
+        },
+        {
+          "text": "Đánh lái sang phải nhường hẳn rồi tăng tốc nhanh",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc không cho xe buýt vượt sai",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

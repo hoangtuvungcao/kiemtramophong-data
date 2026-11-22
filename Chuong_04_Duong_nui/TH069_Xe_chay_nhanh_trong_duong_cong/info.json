@@ -1,0 +1,122 @@
+{
+  "stt": 69,
+  "clip_id": 70,
+  "title": "Xe chạy nhanh trong đường cong",
+  "chapter": "Chương IV - Giao thông trên đường núi",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/69/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/70/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe chạy ngược chiều lấn làn",
+      "wrong_answers": [
+        "Xe khách vượt",
+        "Người đi bộ sau xe tải",
+        "Xe phía trước bị che khuất"
+      ],
+      "all_options": [
+        {
+          "text": "Xe khách vượt",
+          "is_correct": false
+        },
+        {
+          "text": "Xe chạy ngược chiều lấn làn",
+          "is_correct": true
+        },
+        {
+          "text": "Người đi bộ sau xe tải",
+          "is_correct": false
+        },
+        {
+          "text": "Xe phía trước bị che khuất",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe tải đột ngột dừng lại tránh va chạm",
+      "wrong_answers": [
+        "Có biển cảnh báo, mặt đường bóng",
+        "Xe tải dừng giữa đường gây khuất tầm nhìn",
+        "Xe đỗ bên kia đường, có dấu hiệu hoạt động"
+      ],
+      "all_options": [
+        {
+          "text": "Có biển cảnh báo, mặt đường bóng",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải dừng giữa đường gây khuất tầm nhìn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đỗ bên kia đường, có dấu hiệu hoạt động",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải đột ngột dừng lại tránh va chạm",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe đi ngược chiều chạy nhanh và lấn làn",
+      "wrong_answers": [
+        "Xe ngược chiều bất ngờ xuất hiện",
+        "Vật rơi xuống đường",
+        "Xe đánh lái nhiều lần"
+      ],
+      "all_options": [
+        {
+          "text": "Xe ngược chiều bất ngờ xuất hiện",
+          "is_correct": false
+        },
+        {
+          "text": "Vật rơi xuống đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đi ngược chiều chạy nhanh và lấn làn",
+          "is_correct": true
+        },
+        {
+          "text": "Xe đánh lái nhiều lần",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giữ khoản cách an toàn, giảm tốc độ",
+      "wrong_answers": [
+        "Bấm còi và nháy đèn pha để xe đối diện giảm tốc",
+        "Giữ nguyên tốc độ vì mình đang đi đúng phần đường",
+        "Tăng tốc để tránh xa xe đối diện đang lao tới"
+      ],
+      "all_options": [
+        {
+          "text": "Giữ khoản cách an toàn, giảm tốc độ",
+          "is_correct": true
+        },
+        {
+          "text": "Bấm còi và nháy đèn pha để xe đối diện giảm tốc",
+          "is_correct": false
+        },
+        {
+          "text": "Giữ nguyên tốc độ vì mình đang đi đúng phần đường",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc để tránh xa xe đối diện đang lao tới",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

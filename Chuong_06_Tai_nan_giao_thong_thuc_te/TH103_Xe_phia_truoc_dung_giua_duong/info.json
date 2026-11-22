@@ -1,0 +1,102 @@
+{
+  "stt": 103,
+  "clip_id": 104,
+  "title": "Xe phía trước dừng giữa đường",
+  "chapter": "Chương VI - Tình huống tai nạn giao thông thực tế",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/103/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/104/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Phía trước xe quay đầu không an toàn",
+      "wrong_answers": [
+        "Xe phía trước tránh chướng ngại vật",
+        "Xe máy xuất hiện sau xe tải",
+        "Xe con bên trái đi ra"
+      ],
+      "all_options": [
+        {
+          "text": "Phía trước xe quay đầu không an toàn",
+          "is_correct": true
+        },
+        {
+          "text": "Xe phía trước tránh chướng ngại vật",
+          "is_correct": false
+        },
+        {
+          "text": "Xe máy xuất hiện sau xe tải",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con bên trái đi ra",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Dải phân cách mở",
+      "wrong_answers": [
+        "Có trạm dừng cho xe công cộng"
+      ],
+      "all_options": [
+        {
+          "text": "Có trạm dừng cho xe công cộng",
+          "is_correct": false
+        },
+        {
+          "text": "Dải phân cách mở",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe quay đầu đột ngột",
+      "wrong_answers": [
+        "Xe dừng lại đột ngột",
+        "Xe máy bắt đầu chuyển hướng sang trái"
+      ],
+      "all_options": [
+        {
+          "text": "Xe dừng lại đột ngột",
+          "is_correct": false
+        },
+        {
+          "text": "Xe máy bắt đầu chuyển hướng sang trái",
+          "is_correct": false
+        },
+        {
+          "text": "Xe quay đầu đột ngột",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, giữ khoảng cách an toàn",
+      "wrong_answers": [
+        "Bấm còi liên tục để xe trước dừng lại",
+        "Lách sang làng trái đi nhanh qua"
+      ],
+      "all_options": [
+        {
+          "text": "Bấm còi liên tục để xe trước dừng lại",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, giữ khoảng cách an toàn",
+          "is_correct": true
+        },
+        {
+          "text": "Lách sang làng trái đi nhanh qua",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

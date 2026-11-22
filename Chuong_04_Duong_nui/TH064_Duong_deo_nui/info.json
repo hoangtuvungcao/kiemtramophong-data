@@ -1,0 +1,122 @@
+{
+  "stt": 64,
+  "clip_id": 65,
+  "title": "Đường đèo núi",
+  "chapter": "Chương IV - Giao thông trên đường núi",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/64/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/65/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Đường đèo núi",
+      "wrong_answers": [
+        "Xe buýt xin đường",
+        "Xe con rẽ trái nhanh",
+        "Đường nhiều ổ gà"
+      ],
+      "all_options": [
+        {
+          "text": "Đường đèo núi",
+          "is_correct": true
+        },
+        {
+          "text": "Xe buýt xin đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe con rẽ trái nhanh",
+          "is_correct": false
+        },
+        {
+          "text": "Đường nhiều ổ gà",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Biển báo nguy hiểm đường cong bên trái",
+      "wrong_answers": [
+        "Có phương tiện phía trước bật tín hiệu rẽ",
+        "Xe đi sát lề phải",
+        "Báo hiệu đường đang thi công"
+      ],
+      "all_options": [
+        {
+          "text": "Có phương tiện phía trước bật tín hiệu rẽ",
+          "is_correct": false
+        },
+        {
+          "text": "Xe đi sát lề phải",
+          "is_correct": false
+        },
+        {
+          "text": "Báo hiệu đường đang thi công",
+          "is_correct": false
+        },
+        {
+          "text": "Biển báo nguy hiểm đường cong bên trái",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe trước giảm tốc độ để tránh xe chạy ngược chiều",
+      "wrong_answers": [
+        "Xe giữ tốc độ cao",
+        "Xe đạp bất ngờ lao ra từ bên hông",
+        "Xe mô tô dừng đột ngột"
+      ],
+      "all_options": [
+        {
+          "text": "Xe giữ tốc độ cao",
+          "is_correct": false
+        },
+        {
+          "text": "Xe trước giảm tốc độ để tránh xe chạy ngược chiều",
+          "is_correct": true
+        },
+        {
+          "text": "Xe đạp bất ngờ lao ra từ bên hông",
+          "is_correct": false
+        },
+        {
+          "text": "Xe mô tô dừng đột ngột",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc độ, giữ khoảng cách an toàn, đi sát về bên phải",
+      "wrong_answers": [
+        "Tăng tốc khi lên dốc để lấy đà, nhá đèn pha vào xe chạy ngược chiều",
+        "Đi sát vào xe phía trước, đi về bên phải theo chiều đi của mình",
+        "Giữ nguyên tốc độ cao vì đường đèo vắng xe"
+      ],
+      "all_options": [
+        {
+          "text": "Tăng tốc khi lên dốc để lấy đà, nhá đèn pha vào xe chạy ngược chiều",
+          "is_correct": false
+        },
+        {
+          "text": "Đi sát vào xe phía trước, đi về bên phải theo chiều đi của mình",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc độ, giữ khoảng cách an toàn, đi sát về bên phải",
+          "is_correct": true
+        },
+        {
+          "text": "Giữ nguyên tốc độ cao vì đường đèo vắng xe",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}

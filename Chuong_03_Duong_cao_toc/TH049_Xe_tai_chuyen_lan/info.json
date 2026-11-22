@@ -1,0 +1,112 @@
+{
+  "stt": 49,
+  "clip_id": 50,
+  "title": "Xe tải chuyển làn",
+  "chapter": "Chương III - Giao thông trên đường cao tốc",
+  "play_url_api": "https://kiemtramophong.com/simulation/videos/49/play-url",
+  "edit_url": "https://kiemtramophong.com/admin/simulation/customer-answers/50/edit",
+  "questions": [
+    {
+      "question_index": 1,
+      "question_name": "1 Nhận biết tên tình huống",
+      "correct_answer": "Xe tải chuyển làn",
+      "wrong_answers": [
+        "Xe tải nhập làn",
+        "Xe con xin đường",
+        "Xe tải cắt đầu"
+      ],
+      "all_options": [
+        {
+          "text": "Xe tải nhập làn",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải chuyển làn",
+          "is_correct": true
+        },
+        {
+          "text": "Xe con xin đường",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tải cắt đầu",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 2,
+      "question_name": "2 Dấu hiệu nhận biết gián tiếp",
+      "correct_answer": "Xe lớn di chuyển gần làn",
+      "wrong_answers": [
+        "Tầm nhìn hạn chế",
+        "Xe con phía trước bị cắt đầu đột ngột"
+      ],
+      "all_options": [
+        {
+          "text": "Tầm nhìn hạn chế",
+          "is_correct": false
+        },
+        {
+          "text": "Xe lớn di chuyển gần làn",
+          "is_correct": true
+        },
+        {
+          "text": "Xe con phía trước bị cắt đầu đột ngột",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question_index": 3,
+      "question_name": "3 Dấu hiệu nhận biết trực tiếp",
+      "correct_answer": "Xe lấn sang làn của bạn",
+      "wrong_answers": [
+        "Xe con phía trước phanh gấp",
+        "Xe tiến sát phía sau"
+      ],
+      "all_options": [
+        {
+          "text": "Xe con phía trước phanh gấp",
+          "is_correct": false
+        },
+        {
+          "text": "Xe tiến sát phía sau",
+          "is_correct": false
+        },
+        {
+          "text": "Xe lấn sang làn của bạn",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question_index": 4,
+      "question_name": "4 Phương án xử lý",
+      "correct_answer": "Giảm tốc, giữ khoảng cách an toàn",
+      "wrong_answers": [
+        "Đi song song sát xe tải để giữ làn",
+        "Tăng tốc vượt xe tải trước khi nó lấn hết sang",
+        "Đánh lái sang trái né ngay không quan sát"
+      ],
+      "all_options": [
+        {
+          "text": "Đi song song sát xe tải để giữ làn",
+          "is_correct": false
+        },
+        {
+          "text": "Tăng tốc vượt xe tải trước khi nó lấn hết sang",
+          "is_correct": false
+        },
+        {
+          "text": "Đánh lái sang trái né ngay không quan sát",
+          "is_correct": false
+        },
+        {
+          "text": "Giảm tốc, giữ khoảng cách an toàn",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
+}
